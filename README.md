@@ -9,7 +9,7 @@
 
 This repository consists of solutions to HackerRank **practice**, **tutorials**, and **interview preparation** problems with **Python**, **mySQL**, **C#**, and **JavaScript**.
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/DanieTlLouis/HackerRank)](https://github.com/DanieTlLouis/HackerRank/commits/master)
+[![GitHub last commit](https://img.shields.io/github/last-commit/DanieTlLouis/HackerRank)](https://github.com/DanieTlLouis/HackerRank/commits)
 [![GitHub repo size](https://img.shields.io/github/repo-size/DanieTlLouis/HackerRank)](https://github.com/DanieTlLouis/HackerRank/archive/master.zip)
 
 ## Personal HackerRank Profile
