@@ -19,8 +19,13 @@ This repository consists of solutions to HackerRank **practice**, **tutorials**,
 
 ## HackerRank Badges
 
+![Problem Solving](/Badges/problemSolving_5star.png)
+![C++](Badges/cpp_5star.png)
+![Java](Badges/java_5star.png)
 ![Python](/Badges/python_5star.png)
-![SQL](/Badges/sql_1star.png)
-![10 Days of JavaScript](/Badges/10DaysOfJS_5star.png)
-![10 Days of Statistics](/Badges/10DaysOfStatistics_5star.png)
 ![30 Days of Code](/Badges/30DaysOfCode_5star.png)
+![10 Days of JavaScript](/Badges/10DaysOfJS_5star.png)
+![10 Days of Statistics](/Badges/10DaysOfStatistics_2star.png)
+![SQL](/Badges/sql_1star.png)
+![C](/Badges/c_5star.png)
+
