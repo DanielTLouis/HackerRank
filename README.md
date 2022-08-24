@@ -1,5 +1,4 @@
 # HackerRank
-Recording of Hacker Rank practice, from Hackerrank.com 
 <p align="center">
     <a href="https://www.hackerrank.com/llouis5314">
         <img alt="HackerRank Logo | Daniel Louis Profile" src="https://hrcdn.net/fcore/assets/brand/typemark_60x200-7435b42d20.svg" >
