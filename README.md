@@ -30,7 +30,8 @@ This repository consists of solutions to HackerRank **practice**, **tutorials**,
 
 ## HackerRank Certificates
 
-<a href="Skills%20Certification/C%23%20(Basic)%20Certificate.png">
-    <img src="Badges/c%23_basic_skill.png" alt="C# (Basic) Certificate"/>
+<a href="Skills%20Certification/Python%20(Basic)%20Certificate.png">
+    <img src="Badges/Python_Basic_Certificate.png" alt="Python (Basic) Certificate"/>
 </a>
+
 
