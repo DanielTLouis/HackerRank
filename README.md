@@ -28,3 +28,9 @@ This repository consists of solutions to HackerRank **practice**, **tutorials**,
 ![SQL](/Badges/sql_1star.png)
 ![C](/Badges/c_5star.png)
 
+## HackerRank Certificates
+
+<a href="Skills%20Certification/C%23%20(Basic)%20Certificate.png">
+    <img src="Badges/c%23_basic_skill.png" alt="C# (Basic) Certificate"/>
+</a>
+
