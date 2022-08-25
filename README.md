@@ -68,10 +68,12 @@ This repository consists of solutions to HackerRank **practice**, **tutorials**,
 * [SQL](#sql)
 
 ### C++
-|       Subdomain       |                 Challenge                 |                                             Problem                                              | Difficulty |                                             Solution                                              |
-| :-------------------: | :---------------------------------------: | :----------------------------------------------------------------------------------------------: | :--------: | :-----------------------------------------------------------------------------------------------: |
-|     Introduction      |   Say "Hello, World!" With C++            |     [Problem](https://www.hackerrank.com/challenges/cpp-hello-world/problem?isFullScreen=true)   |    Easy    |      [Solution] (/)
-
+|       Subdomain       |                 Challenge                 |                                             Problem                                                       | Difficulty |                                             Solution                                              |
+| :-------------------: | :---------------------------------------: | :-------------------------------------------------------------------------------------------------------: | :--------: | :-----------------------------------------------------------------------------------------------: |
+|     Introduction      |   Say "Hello, World!" With C++            | [Problem](https://www.hackerrank.com/challenges/cpp-hello-world/problem?isFullScreen=true)                |    Easy    |      [Solution] (/)                                                                               |
+|     Introduction      |   Input And Output                        | [Problem](https://www.hackerrank.com/challenges/cpp-input-and-output/problem?isFullScreen=true)           |    Easy    |      [Solution] (/)                                                                               |
+|     Introduction      |   Basic Data Types                        | [Problem](https://www.hackerrank.com/challenges/c-tutorial-basic-data-types/problem?isFullScreen=true)    |    Easy    |      [Solution] (/)                                                                               |
+|     Introduction      |   Conditional Statements                  | [Problem](https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else/problem?isFullScreen=true) |    Easy    |      [Solution] (/)                                                                               |
 
 ### Python
 
