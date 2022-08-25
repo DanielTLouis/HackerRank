@@ -67,6 +67,12 @@ This repository consists of solutions to HackerRank **practice**, **tutorials**,
 * [Python](#python)
 * [SQL](#sql)
 
+### C++
+|       Subdomain       |                 Challenge                 |                                             Problem                                              | Difficulty |                                             Solution                                              |
+| :-------------------: | :---------------------------------------: | :----------------------------------------------------------------------------------------------: | :--------: | :-----------------------------------------------------------------------------------------------: |
+|     Introduction      |   Say "Hello, World!" With C++            |     [Problem](https://www.hackerrank.com/challenges/cpp-hello-world/problem?isFullScreen=true)   |    Easy    |      [Solution] (/)
+
+
 ### Python
 
 |       Subdomain       |                 Challenge                 |                                             Problem                                              | Difficulty | Score |                                             Solution                                              |
