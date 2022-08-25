@@ -36,11 +36,8 @@ This repository consists of solutions to HackerRank **practice**, **tutorials**,
 <a href=”Badges/Certificates/ProblemSolving_Intermidiate.png”>
 	<img src=”Badges/ProblemSolving_Intermediate_Certificate.png” alt="Problem Solving (Intermediate) Certificate"/>
 </a>
-<a href=”Badges/Certificates/Java.png”>
-	<img src=”Badges/Java_Basic_Certificate.png” alt="Java (Basic) Certificate"/>
-</a>
 <a href="Badges/Certificates/Java.png">
-    	<img src="Badges/Java_Basic_Certificate.png" alt="Python (Basic) Certificate"/>
+	<img src="Badges/Java_Basic_Certificate.png" alt="Java (Basic) Certificate"/>
 </a>
 <a href="Badges/Certificates/Python.png">
     	<img src="Badges/Python_Basic_Certificate.png" alt="Python (Basic) Certificate"/>
