@@ -31,28 +31,28 @@ This repository consists of solutions to HackerRank **practice**, **tutorials**,
 ## HackerRank Certificates
 
 <a href=”Badges/Certificates/ProblemSolving_Basic.png”>
-	<img src=”Badges/ProblemSolving_Basic_Certificate.png”>
+	<img src=”Badges/ProblemSolving_Basic_Certificate.png”alt="Problem Solving (Basic) Certificate">
 </a>
 <a href=”Badges/Certificates/ProblemSolving_Intermidiate.png”>
-	<img src=”Badges/ProblemSolving_Intermediate_Certificate.png”>
+	<img src=”Badges/ProblemSolving_Intermediate_Certificate.png” alt="Problem Solving (Intermediate) Certificate">
 </a>
 <a href=”Badges/Certificates/Java.png”>
-	<img src=”Badges/Java_Basic_Certificate.png”>
+	<img src=”Badges/Java_Basic_Certificate.png” alt="Java (Basic) Certificate">
 </a>
 <a href="Badges/Certificates/Python.png">
     <img src="Badges/Python_Basic_Certificate.png" alt="Python (Basic) Certificate"/>
 </a>
 <a href=”Bradges/Certificates/JavaScript_Basic.png>
-	<img src=”Badges/JavaScript_Basic_Certificate.png”
+	<img src=”Badges/JavaScript_Basic_Certificate.png” alt="Javascript (Basic) Certificate">
 </a>
 <a href=”Badges/Certificates/Javascript_Intermediate.png”>
-	<img src=”Badges/Javascript_Intermediate_Certificate.png”>
+	<img src=”Badges/Javascript_Intermediate_Certificate.png” alt="Javascript (Intermediate) Certificate">
 </a>
 <a href=”Badges/Certificates/C%23.png”>
-	<img src=”Badges/C%23_Basic_Certificate.png”
+	<img src=”Badges/C%23_Basic_Certificate.png” alt="C%23 (Basic) Certificate">
 </a>
 <a href=”Badges/Certificates/SQL.png>
-	<img src=”Badges/SQL_Basic_Certificate.png”
+	<img src=”Badges/SQL_Basic_Certificate.png” alt="SQL (Basic) Certificate">
 </a>
 
 
