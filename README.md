@@ -65,6 +65,4 @@ This repository consists of solutions to HackerRank **practice**, **tutorials**,
 ## Practices Completed
 
 * [Python](#python)
-* [Regex](#regex)
-* [Security](#security)
 * [SQL](#sql)
