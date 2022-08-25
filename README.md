@@ -31,7 +31,7 @@ This repository consists of solutions to HackerRank **practice**, **tutorials**,
 ## HackerRank Certificates
 
 <a href=”Badges/Certificates/ProblemSolving_Basic.png”>
-	<img src=”Badges/ProblemSolving_Basic_Certificate.png”alt="Problem Solving (Basic) Certificate">
+	<img src=”Badges/ProblemSolving_Basic_Certificate.png” alt="Problem Solving (Basic) Certificate">
 </a>
 <a href=”Badges/Certificates/ProblemSolving_Intermidiate.png”>
 	<img src=”Badges/ProblemSolving_Intermediate_Certificate.png” alt="Problem Solving (Intermediate) Certificate">
@@ -40,7 +40,7 @@ This repository consists of solutions to HackerRank **practice**, **tutorials**,
 	<img src=”Badges/Java_Basic_Certificate.png” alt="Java (Basic) Certificate">
 </a>
 <a href="Badges/Certificates/Python.png">
-    <img src="Badges/Python_Basic_Certificate.png" alt="Python (Basic) Certificate"/>
+    	<img src="Badges/Python_Basic_Certificate.png" alt="Python (Basic) Certificate"/>
 </a>
 <a href=”Bradges/Certificates/JavaScript_Basic.png>
 	<img src=”Badges/JavaScript_Basic_Certificate.png” alt="Javascript (Basic) Certificate">
@@ -54,7 +54,3 @@ This repository consists of solutions to HackerRank **practice**, **tutorials**,
 <a href=”Badges/Certificates/SQL.png>
 	<img src=”Badges/SQL_Basic_Certificate.png” alt="SQL (Basic) Certificate">
 </a>
-
-
-
-
