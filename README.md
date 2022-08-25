@@ -66,3 +66,9 @@ This repository consists of solutions to HackerRank **practice**, **tutorials**,
 
 * [Python](#python)
 * [SQL](#sql)
+
+### Python
+
+|       Subdomain       |                 Challenge                 |                                             Problem                                              | Difficulty | Score |                                             Solution                                              |
+| :-------------------: | :---------------------------------------: | :----------------------------------------------------------------------------------------------: | :--------: | :---: | :-----------------------------------------------------------------------------------------------: |
+|     Introduction
