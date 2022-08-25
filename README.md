@@ -43,7 +43,7 @@ This repository consists of solutions to HackerRank **practice**, **tutorials**,
     	<img src="Badges/Python_Basic_Certificate.png" alt="Python (Basic) Certificate"/>
 </a>
 <a href=”Bradges/Certificates/JavaScript_Basic.png>
-	<img src=”Badges/JavaScript_Basic_Certificate.png” alt="Javascript (Basic) Certificate">
+	<img src=”Badges/JavaScript_Basic_Certificate.png” alt="Javascript (Basic) Certificate"/>
 </a>
 <a href=”Badges/Certificates/Javascript_Intermediate.png”>
 	<img src=”Badges/Javascript_Intermediate_Certificate.png” alt="Javascript (Intermediate) Certificate">
