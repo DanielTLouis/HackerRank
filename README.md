@@ -55,3 +55,16 @@ This repository consists of solutions to HackerRank **practice**, **tutorials**,
 	<img src="Badges/SQL_Basic_Certificate.png" alt="SQL (Basic) Certificate"/>
 </a>
 
+## Table Of Contents
+
+* [Practices Completed](#practices-completed)
+* [Tutorials Completed](#tutorials-completed)
+* [Interview Preparation Kit](#interview-preparation-kit)
+* [Certificates](#certificates)
+
+## Practices Completed
+
+* [Python](#python)
+* [Regex](#regex)
+* [Security](#security)
+* [SQL](#sql)
