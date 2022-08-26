@@ -353,9 +353,12 @@ This repository consists of solutions to HackerRank **practice**, **tutorials**,
 |      Java       |      [Test](https://www.hackerrank.com/skills-verification/java_basic)        |    Basic     |                                 Classes, Data Structures, Inheritance, Exception Handling, among others                                 |        [Certificate](/Badges/Certificates/Java.png)                          |
 |     Python      |     [Test](https://www.hackerrank.com/skills-verification/python_basic)       |    Basic     |         Scalar Types, Operators and Control Flow, Strings, Collections and Iteration, Modularity, Objects and Types and Classes         |        [Certificate](/Badges/Certificates/Python.png)                        |
 |   JavaScript    |   [Test](https://www.hackerrank.com/skills-verification/javascript_basic)     |    Basic     |                              Functions, Currying, Hoisting, Scope, Inheritance, Events and Error Handling                               |        [Certificate](/Badges/Certificates/Javascript_Basic.png)              |
-|   JavaScript    | [Test](https://www.hackerrank.com/skills-verification/javascript_intermediat) | Intermediate |              It covers topics like Design Patterns, Memory management, concurrency model, and event loops, among others.                |        [Certificate](/Badges/Certificates/Javascript_Inter.png)              |
+|   JavaScript    | [Test](https://www.hackerrank.com/skills-verification/javascript_intermediat) | Intermediate |              It covers topics like Design Patterns, Memory management, concurrency model, and event loops, among others                 |        [Certificate](/Badges/Certificates/Javascript_Inter.png)              |
 |       C#        |     [Test](https://www.hackerrank.com/skills-verification/c_sharp_basic)      |    Basic     |                 Data Types, and Variables, OOP, Properties and Indexers, Collections, Exception handling, among others                  |        [Certificate](/Badges/Certificates/CSharp.png)                        |
 |       SQL       |       [Test](https://www.hackerrank.com/skills-verification/sql_basic)        |    Basic     |                                                 Queries, Relationships, and Aggregators                                                 |        [Certificate](/Badges/Certificates/SQL_Basic.png)                     |
 
 <p align="center">
-    <a href="https://www.hackerrank.com/natha|>
+    <a href="https://www.hackerrank.com/llouis5314">
+        <img alt="HackerRank Logo | Daniel Louis Profile" src="https://hrcdn.net/fcore/assets/brand/typemark_60x200-7435b42d20.svg" >
+    </a>
+</p>
