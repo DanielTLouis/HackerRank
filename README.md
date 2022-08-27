@@ -5,18 +5,15 @@
 </p>
 
 # HackerRank | Practice, Tutorials & Interview Preparation Solutions
-
 This repository consists of solutions to HackerRank **practice**, **tutorials**, and **interview preparation** problems with **Python**, **mySQL**, **C#**, and **JavaScript**.
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/DanieTlLouis/HackerRank)](https://github.com/DanieTlLouis/HackerRank/commits)
 [![GitHub repo size](https://img.shields.io/github/repo-size/DanieTlLouis/HackerRank)](https://github.com/DanieTlLouis/HackerRank/archive/master.zip)
 
 ## Personal HackerRank Profile
-
 [View Profile](https://www.hackerrank.com/llouis5314)
 
 ## HackerRank Badges
-
 ![Problem Solving](/Badges/problemSolving_5star.png)
 ![C++](Badges/cpp_5star.png)
 ![Java](Badges/java_5star.png)
@@ -28,7 +25,6 @@ This repository consists of solutions to HackerRank **practice**, **tutorials**,
 ![C](/Badges/c_5star.png)
 
 ## HackerRank Certificates
-
 <a href="Badges/Certificates/ProblemSolving_Basic.png">
 	<img src="Badges/ProblemSolving_Basic_Certificate.png" alt="Problem Solving (Basic) Certificate"/>
 </a>
@@ -55,14 +51,12 @@ This repository consists of solutions to HackerRank **practice**, **tutorials**,
 </a>
 
 ## Table Of Contents
-
 * [Practices Completed](#practices-completed)
 #* [Tutorials Completed](#tutorials-completed)
 #* [Interview Preparation Kit](#interview-preparation-kit)
 #* [Certificates](#certificates)
 
 ## Practices Completed
-
 * [Python](#python)
 * [C++](#C++)
 * [SQL](#sql)
@@ -116,37 +110,36 @@ This repository consists of solutions to HackerRank **practice**, **tutorials**,
 |     Other Concepts    |   Bit Array                               | [Problem](https://www.hackerrank.com/challenges/bitset-1/problem?isFullScreen=true)                          |    Hard    |      [Solution](/CPP/Prepare_Cpp_OtherConcepts_BitArray.cpp)                       |
 
 ### Python
-
 |       Subdomain       |                 Challenge                 |                                             Problem                                              | Difficulty |         Solution         |
 | :-------------------: | :---------------------------------------: | :----------------------------------------------------------------------------------------------: | :--------: | :----------------------: |
 |     Introduction      |      Say 'Hello, World!' With Python      |             [Problem](https://www.hackerrank.com/challenges/py-hello-world/problem)              |    Easy    |      [Solution](/Python/)       |
-|     Introduction      |              Python If-Else               |               [Problem](https://www.hackerrank.com/challenges/py-if-else/problem)                |    Easy    |      [Solution](/Python/)       |
-|     Introduction      |           Arithmetic Operators            |       [Problem](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem)       |    Easy    |      [Solution](/Python/)       |
-|     Introduction      |              Python Division              |             [Problem](https://www.hackerrank.com/challenges/python-division/problem)             |    Easy    |      [Solution](/Python/)       |
-|     Introduction      |                   Loops                   |              [Problem](https://www.hackerrank.com/challenges/python-loops/problem)               |    Easy    |      [Solution](/Python/)       |
-|     Introduction      |             Write a function              |            [Problem](https://www.hackerrank.com/challenges/write-a-function/problem)             |   Medium   |      [Solution](/Python/)       |
-|     Introduction      |              Print Function               |              [Problem](https://www.hackerrank.com/challenges/python-print/problem)               |    Easy    |      [Solution](/Python/)       |
-|   Basic Data Types    |            List Comprehensions            |           [Problem](https://www.hackerrank.com/challenges/list-comprehensions/problem)           |    Easy    |      [Solution](/Python/)       |
-|   Basic Data Types    |         Find the Runner-Up Score!         |  [Problem](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem)   |    Easy    |      [Solution](/Python/)       |
+|     Introduction      |              Python If-Else               |               [Problem](https://www.hackerrank.com/challenges/py-if-else/problem)                |    Easy    |      [Solution](/Python/Prepare_Python_Introduction_PythonIfElse.py)       |
+|     Introduction      |           Arithmetic Operators            |       [Problem](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem)       |    Easy    |      [Solution](/Python/Prepare_Python_Introduction_ArithmeticOpperators.py)       |
+|     Introduction      |              Python Division              |             [Problem](https://www.hackerrank.com/challenges/python-division/problem)             |    Easy    |      [Solution](/Python/Prepare_Python_Introduction_ArithmeticOpperators.py)       |
+|     Introduction      |                   Loops                   |              [Problem](https://www.hackerrank.com/challenges/python-loops/problem)               |    Easy    |      [Solution](/Python/Prepare_Python_Introduction_Loop.py)       |
+|     Introduction      |             Write a function              |            [Problem](https://www.hackerrank.com/challenges/write-a-function/problem)             |   Medium   |      [Solution](/Python/Prepare_Python_Introduction_WriteAFunction.py)       |
+|     Introduction      |              Print Function               |              [Problem](https://www.hackerrank.com/challenges/python-print/problem)               |    Easy    |      [Solution](/Python/Prepare_Python_Introduction_PrintFuction.py)       |
+|   Basic Data Types    |            List Comprehensions            |           [Problem](https://www.hackerrank.com/challenges/list-comprehensions/problem)           |    Easy    |      [Solution](/Python/Prepare_Python_BasicDataTypes_ListComprehensions.py)       |
+|   Basic Data Types    |         Find the Runner-Up Score!         |  [Problem](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem)   |    Easy    |      [Solution](/Python/Prepare_Python_BasicDataTypes_FindTheRunnerUpScore!.py)       |
 |   Basic Data Types    |               Nested Lists                |               [Problem](https://www.hackerrank.com/challenges/nested-list/problem)               |    Easy    |      [Solution](/Python/)       |
 |   Basic Data Types    |          Finding the percentage           |         [Problem](https://www.hackerrank.com/challenges/finding-the-percentage/problem)          |    Easy    |      [Solution](/Python/)       |
-|   Basic Data Types    |                   Lists                   |              [Problem](https://www.hackerrank.com/challenges/python-lists/problem)               |    Easy    |      [Solution](/Python/)       |
+|   Basic Data Types    |                   Lists                   |              [Problem](https://www.hackerrank.com/challenges/python-lists/problem)               |    Easy    |      [Solution](/Python/Prepare_Python_BasicDataTypes_Lists.py)       |
 |   Basic Data Types    |                  Tuples                   |              [Problem](https://www.hackerrank.com/challenges/python-tuples/problem)              |    Easy    |      [Solution](/Python/)       |
-|        Strings        |                 sWAP cASE                 |                [Problem](https://www.hackerrank.com/challenges/swap-case/problem)                |    Easy    |      [Solution](/Python/)       |
-|        Strings        |           String Split and Join           |      [Problem](https://www.hackerrank.com/challenges/python-string-split-and-join/problem)       |    Easy    |      [Solution](/Python/)       |
-|        Strings        |             What's Your Name?             |             [Problem](https://www.hackerrank.com/challenges/whats-your-name/problem)             |    Easy    |      [Solution](/Python/)       |
-|        Strings        |                 Mutations                 |            [Problem](https://www.hackerrank.com/challenges/python-mutations/problem)             |    Easy    |      [Solution](/Python/)       |
-|        Strings        |               Find a string               |              [Problem](https://www.hackerrank.com/challenges/find-a-string/problem)              |    Easy    |      [Solution](/Python/)       |
-|        Strings        |             String Validators             |            [Problem](https://www.hackerrank.com/challenges/string-validators/problem)            |    Easy    |      [Solution](/Python/)       |
-|        Strings        |              Text Alignment               |             [Problem](https://www.hackerrank.com/challenges/text-alignment/problem)              |    Easy    |      [Solution](/Python/)       |
-|        Strings        |                 Text Wrap                 |                [Problem](https://www.hackerrank.com/challenges/text-wrap/problem)                |    Easy    |      [Solution](/Python/)       |
-|        Strings        |             Designer Door Mat             |            [Problem](https://www.hackerrank.com/challenges/designer-door-mat/problem)            |    Easy    |      [Solution](/Python/)       |
-|        Strings        |             String Formatting             |        [Problem](https://www.hackerrank.com/challenges/python-string-formatting/problem)         |    Easy    |      [Solution](/Python/)       |
-|        Strings        |             Alphabet Rangoli              |            [Problem](https://www.hackerrank.com/challenges/alphabet-rangoli/problem)             |    Easy    |      [Solution](/Python/)       |
-|        Strings        |                Capitalize!                |               [Problem](https://www.hackerrank.com/challenges/capitalize/problem)                |    Easy    |      [Solution](/Python/)       |
-|        Strings        |              The Minion Game              |             [Problem](https://www.hackerrank.com/challenges/the-minion-game/problem)             |   Medium   |      [Solution](/Python/)       |
-|        Strings        |             Merge the Tools!              |             [Problem](https://www.hackerrank.com/challenges/merge-the-tools/problem)             |   Medium   |      [Solution](/Python/)       |
-|         Sets          |           Introduction to Sets            |         [Problem](https://www.hackerrank.com/challenges/py-introduction-to-sets/problem)         |    Easy    |      [Solution](/Python/)       |
+|        Strings        |                 sWAP cASE                 |                [Problem](https://www.hackerrank.com/challenges/swap-case/problem)                |    Easy    |      [Solution](/Python/Prepare_Python_String_sWARcASE.py)       |
+|        Strings        |           String Split and Join           |      [Problem](https://www.hackerrank.com/challenges/python-string-split-and-join/problem)       |    Easy    |      [Solution](/Python/Prepare_Python_Strings_StringSplitAndJoin.py)       |
+|        Strings        |             What's Your Name?             |             [Problem](https://www.hackerrank.com/challenges/whats-your-name/problem)             |    Easy    |      [Solution](/Python/Prepare_Python_Strings_WhatsYourName.py)       |
+|        Strings        |                 Mutations                 |            [Problem](https://www.hackerrank.com/challenges/python-mutations/problem)             |    Easy    |      [Solution](/Python/Prepare_Python_String_Mutations.py)       |
+|        Strings        |               Find a string               |              [Problem](https://www.hackerrank.com/challenges/find-a-string/problem)              |    Easy    |      [Solution](/Python/Prepare_Python_String_FindAString.py)       |
+|        Strings        |             String Validators             |            [Problem](https://www.hackerrank.com/challenges/string-validators/problem)            |    Easy    |      [Solution](/Python/Prepare_Python_String_StringValdators.py)       |
+|        Strings        |              Text Alignment               |             [Problem](https://www.hackerrank.com/challenges/text-alignment/problem)              |    Easy    |      [Solution](/Python/Prepare_Python_String_TextAlignment.py)       |
+|        Strings        |                 Text Wrap                 |                [Problem](https://www.hackerrank.com/challenges/text-wrap/problem)                |    Easy    |      [Solution](/Python/Prepare_Python_Strings_TextWrap.py)       |
+|        Strings        |             Designer Door Mat             |            [Problem](https://www.hackerrank.com/challenges/designer-door-mat/problem)            |    Easy    |      [Solution](/Python/Prepare_Python_Strings_DegignerDoorMat.py)       |
+|        Strings        |             String Formatting             |        [Problem](https://www.hackerrank.com/challenges/python-string-formatting/problem)         |    Easy    |      [Solution](/Python/Prepare_Python_Strings_StringFormationg.py)       |
+|        Strings        |             Alphabet Rangoli              |            [Problem](https://www.hackerrank.com/challenges/alphabet-rangoli/problem)             |    Easy    |      [Solution](/Python/Prepare_Python_String_AlphabetRangoli.py)       |
+|        Strings        |                Capitalize!                |               [Problem](https://www.hackerrank.com/challenges/capitalize/problem)                |    Easy    |      [Solution](/Python/Prepare_Python_Strings_Capitalize.py)       |
+|        Strings        |              The Minion Game              |             [Problem](https://www.hackerrank.com/challenges/the-minion-game/problem)             |   Medium   |      [Solution](/Python/Prepare_Python_Strings_TheMinionGame.py)       |
+|        Strings        |             Merge the Tools!              |             [Problem](https://www.hackerrank.com/challenges/merge-the-tools/problem)             |   Medium   |      [Solution](/Python/Prepare_Python_Strings_MergeTheTools.py)       |
+|         Sets          |           Introduction to Sets            |         [Problem](https://www.hackerrank.com/challenges/py-introduction-to-sets/problem)         |    Easy    |      [Solution](/Python/Prepare_Python_Sets_IntroductionToSets.py)       |
 |         Sets          |                 No Idea!                  |                 [Problem](https://www.hackerrank.com/challenges/no-idea/problem)                 |   Medium   |      [Solution](/Python/)       |
 |         Sets          |           Symmetric Difference            |          [Problem](https://www.hackerrank.com/challenges/symmetric-difference/problem)           |    Easy    |      [Solution](/Python/)       |
 |         Sets          |                 Set add()                 |               [Problem](https://www.hackerrank.com/challenges/py-set-add/problem)                |    Easy    |      [Solution](/Python/)       |
@@ -206,13 +199,11 @@ This repository consists of solutions to HackerRank **practice**, **tutorials**,
 |    Introduction        |     Java Currency Formatter                    | [Problem](https://www.hackerrank.com/challenges/java-currency-formatter/problem?isFullScreen=true)       |  Easy      |  [Solution](/Java/)                                                                                         |
 
 ### Regex
-
 |       Subdomain        |                   Challenge                    |                                                Problem                                                | Difficulty | Score |                                                  Solution                                                   |
 | :--------------------: | :--------------------------------------------: | :---------------------------------------------------------------------------------------------------: | :--------: | :---: | :---------------------------------------------------------------------------------------------------------: |
 |      Introduction      |            Matching Specific String            |           [Problem](https://www.hackerrank.com/challenges/matching-specific-string/problem)           |    Easy    |   5   |              [Solution](/Regex/01%20-%20Introduction/01%20-%20Matching%20Specific%20String.py)              |
 
 ### SQL
-
 |    Subdomain    |                 Challenge                  |                                               Problem                                               | Difficulty |                                                Solution                                                 |
 | :-------------: | :----------------------------------------: | :-------------------------------------------------------------------------------------------------: | :--------: | :-----------------------------------------------------------------------------------------------------: |
 |  Basic Select   |        Reversing the Select Query I        |         [Problem](https://www.hackerrank.com/challenges/revising-the-select-query/problem)          |    Easy    |       [Solution](/SQL/01%20-%20Basic%20Select/01%20-%20Reversing%20the%20Select%20Query%20I.sql)        |
@@ -259,13 +250,11 @@ This repository consists of solutions to HackerRank **practice**, **tutorials**,
 |   Aggregation   |       Weather Observation Station 20       |       [Problem](https://www.hackerrank.com/challenges/weather-observation-station-20/problem)       |   Medium   |         [Solution](/SQL/03%20-%20Aggregation/17%20-%20Weather%20Observation%20Station%2020.sql)         |
 
 ## Tutorials Completed
-
 * [10 Days of JavaScript](#10-days-of-javascript)
 * [10 Days of Statistics](#10-days-of-statistics)
 * [30 Days of Code](#30-days-of-code)
 
 ### 10 Days of JavaScript
-
 |  Day  |            Challenge             |                                       Problem                                       | Difficulty |          Solution        |
 | :---: | :------------------------------: | :---------------------------------------------------------------------------------: | :--------: | :----------------------: |
 |   0   |          Hello, World!           |      [Problem](https://www.hackerrank.com/challenges/js10-hello-world/problem)      |    Easy    |      [Solution](/)       |
@@ -295,7 +284,6 @@ This repository consists of solutions to HackerRank **practice**, **tutorials**,
 |   9   |        Binary Calculator         |   [Problem](https://www.hackerrank.com/challenges/js10-binary-calculator/problem)   |   Medium   |      [Solution](/)       |
 
 ### 10 Days of Statistics
-
 |  Day  |                Challenge                |                                              Problem                                               | Difficulty |          Solution        |
 | :---: | :-------------------------------------: | :------------------------------------------------------------------------------------------------: | :--------: | :----------------------: |
 |   0   |         Mean, Median, and Mode          |           [Problem](https://www.hackerrank.com/challenges/s10-basic-statistics/problem)            |    Easy    |      [Solution](/)       |
@@ -327,7 +315,6 @@ This repository consists of solutions to HackerRank **practice**, **tutorials**,
 |   9   |       Multiple Linear Regression        |      [Problem](https://www.hackerrank.com/challenges/s10-multiple-linear-regression/problem)       |   Medium   |      [Solution](/)       |
 
 ### 30 Days of Code
-
 |  Day  |                Challenge                |                                         Problem                                          | Difficulty |          Solution        |
 | :---: | :-------------------------------------: | :--------------------------------------------------------------------------------------: | :--------: | :----------------------: |
 |   0   |              Hello, World               |         [Problem](https://www.hackerrank.com/challenges/30-hello-world/problem)          |    Easy    |      [Solution](/)       |
@@ -362,7 +349,6 @@ This repository consists of solutions to HackerRank **practice**, **tutorials**,
 |  29   |               Bitwise AND               |         [Problem](https://www.hackerrank.com/challenges/30-bitwise-and/problem)          |   Medium   |      [Solution](/)       |
 
 ## Certificates
-
 |      Skill      |                                     Test                                      |  Difficulty  |                                                               Description                                                               |          Certificate                                                         |
 | :-------------: | :--------------------------------------------------------------------------:  | :----------: | :-------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------: |
 | Problem Solving | [Test](https://www.hackerrank.com/skills-verification/problem_solving_basic)  |    Basic     |                        Data Structures (such as Arrays, Strings) and Algorithms (such as Sorting and Searching)                         |        [Certificate](/Badges/Certificates/ProblemSolving_Basic.png)          |
