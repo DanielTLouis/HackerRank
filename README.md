@@ -52,13 +52,14 @@ This repository consists of solutions to HackerRank **practice**, **tutorials**,
 
 ## Table Of Contents
 * [Practices Completed](#practices-completed)
-#* [Tutorials Completed](#tutorials-completed)
-#* [Interview Preparation Kit](#interview-preparation-kit)
-#* [Certificates](#certificates)
+* [Tutorials Completed](#tutorials-completed)
+* [Interview Preparation Kit](#interview-preparation-kit)
+* [Certificates](#certificates)
 
 ## Practices Completed
 * [Python](#python)
 * [C++](#C++)
+* [Java](#Java)
 * [SQL](#sql)
 
 ### C++
@@ -228,7 +229,7 @@ This repository consists of solutions to HackerRank **practice**, **tutorials**,
 | Debugging               | Words Score                                        |    [Problem](https://www.hackerrank.com/challenges/words-score/problem?isFullScreen=true)                                      |   Medium   |      [Solution](/Python/Prepare_Python_Debugging_WordsScore.py)                                               |
 | Debugging               | Default Arguments                                  |    [Problem](https://www.hackerrank.com/challenges/default-arguments/problem?isFullScreen=true)                                |   Medium   |      [Solution](/Python/Prepare_Python_Debugging_DefaultArguments.py)                                         |
 
-###Java
+### Java
 |       Subdomain        |                   Challenge                    |                                                Problem                                                   | Difficulty |                                                  Solution                                                   |
 | :--------------------: | :--------------------------------------------: | :---------------------------------------------------------------------------------------------------:    | :--------: | :---------------------------------------------------------------------------------------------------------: |
 |    Introduction        |         Welcome to Java!                       | [Problem](https://www.hackerrank.com/challenges/welcome-to-java/problem?isFullScreen=true)               |  Easy      |  [Solution](/Java/)                                                                                         |
@@ -362,38 +363,38 @@ This repository consists of solutions to HackerRank **practice**, **tutorials**,
 |   9   |       Multiple Linear Regression        |      [Problem](https://www.hackerrank.com/challenges/s10-multiple-linear-regression/problem)       |   Medium   |      [Solution](/)       |
 
 ### 30 Days of Code
-|  Day  |                Challenge                |                                         Problem                                          | Difficulty |          Solution        |
-| :---: | :-------------------------------------: | :--------------------------------------------------------------------------------------: | :--------: | :----------------------: |
-|   0   |              Hello, World               |         [Problem](https://www.hackerrank.com/challenges/30-hello-world/problem)          |    Easy    |      [Solution](/)       |
-|   1   |               Data Types                |          [Problem](https://www.hackerrank.com/challenges/30-data-types/problem)          |    Easy    |      [Solution](/)       |
-|   2   |                Operators                |          [Problem](https://www.hackerrank.com/challenges/30-operators/problem)           |    Easy    |      [Solution](/)       |
-|   3   |     Intro to Conditional Statements     |    [Problem](https://www.hackerrank.com/challenges/30-conditional-statements/problem)    |    Easy    |      [Solution](/)       |
-|   4   |           Class vs. Instance            |      [Problem](https://www.hackerrank.com/challenges/30-class-vs-instance/problem)       |    Easy    |      [Solution](/)       |
-|   5   |                  Loops                  |            [Problem](https://www.hackerrank.com/challenges/30-loops/problem)             |    Easy    |      [Solution](/)       |
-|   6   |              Let's Review               |         [Problem](https://www.hackerrank.com/challenges/30-review-loop/problem)          |    Easy    |      [Solution](/)       |
-|   7   |                 Arrays                  |            [Problem](https://www.hackerrank.com/challenges/30-arrays/problem)            |    Easy    |      [Solution](/)       |
-|   8   |          Dictionaries and Maps          |    [Problem](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem)     |    Easy    |      [Solution](/)       |
-|   9   |               Recursion 3               |    [Problem](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem)     |    Easy    |      [Solution](/)       |
-|  10   |             Binary Numbers              |        [Problem](https://www.hackerrank.com/challenges/30-binary-numbers/problem)        |    Easy    |      [Solution](/)       |
-|  11   |                2D Arrays                |          [Problem](https://www.hackerrank.com/challenges/30-2d-arrays/problem)           |    Easy    |      [Solution](/)       |
-|  12   |               Inheritance               |         [Problem](https://www.hackerrank.com/challenges/30-inheritance/problem)          |    Easy    |      [Solution](/)       |
-|  13   |            Abstract Classes             |       [Problem](https://www.hackerrank.com/challenges/30-abstract-classes/problem)       |    Easy    |      [Solution](/)       |
-|  14   |                  Scope                  |            [Problem](https://www.hackerrank.com/challenges/30-scope/problem)             |    Easy    |      [Solution](/)       |
-|  15   |               Linked List               |         [Problem](https://www.hackerrank.com/challenges/30-linked-list/problem)          |    Easy    |      [Solution](/)       |
-|  16   |     Exceptions - String to Integer      | [Problem](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer/problem) |    Easy    |      [Solution](/)       |
-|  17   |             More Exceptions             |       [Problem](https://www.hackerrank.com/challenges/30-more-exceptions/problem)        |    Easy    |      [Solution](/)       |
-|  18   |            Queues and Stack             |        [Problem](https://www.hackerrank.com/challenges/30-queues-stacks/problem)         |    Easy    |      [Solution](/)       |
-|  19   |               Interfaces                |          [Problem](https://www.hackerrank.com/challenges/30-interfaces/problem)          |    Easy    |      [Solution](/)       |
-|  20   |                 Sorting                 |           [Problem](https://www.hackerrank.com/challenges/30-sorting/problem)            |    Easy    |      [Solution](/)       |
-|  21   |                Generics                 |           [Problem](https://www.hackerrank.com/challenges/30-generics/problem)           |    Easy    |      [Solution](/)       |
-|  22   |           Binary Search Trees           |     [Problem](https://www.hackerrank.com/challenges/30-binary-search-trees/problem)      |    Easy    |      [Solution](/)       |
-|  23   |        BST Level-Order Traversal        |         [Problem](https://www.hackerrank.com/challenges/30-binary-trees/problem)         |    Easy    |      [Solution](/)       |
-|  24   |            More Linked Lists            |     [Problem](https://www.hackerrank.com/challenges/30-linked-list-deletion/problem)     |    Easy    |      [Solution](/)       |
-|  25   |       Running Time and Complexity       | [Problem](https://www.hackerrank.com/challenges/30-running-time-and-complexity/problem)  |   Medium   |      [Solution](/)       |
-|  26   |              Nested Logic               |         [Problem](https://www.hackerrank.com/challenges/30-nested-logic/problem)         |    Easy    |      [Solution](/)       |
-|  27   |                 Testing                 |           [Problem](https://www.hackerrank.com/challenges/30-testing/problem)            |    Easy    |      [Solution](/)       |
-|  28   | RegEx, Patterns, and Intro to Databases |        [Problem](https://www.hackerrank.com/challenges/30-regex-patterns/problem)        |   Medium   |      [Solution](/)       |
-|  29   |               Bitwise AND               |         [Problem](https://www.hackerrank.com/challenges/30-bitwise-and/problem)          |   Medium   |      [Solution](/)       |
+|  Day  |                Challenge                |                                         Problem                                          | Difficulty |          Solution                                                                                            |
+| :---: | :-------------------------------------: | :--------------------------------------------------------------------------------------: | :--------: | :----------------------------------------------------------------------------------------------------------: |
+|   0   |              Hello, World               |         [Problem](https://www.hackerrank.com/challenges/30-hello-world/problem)          |    Easy    |      [Solution](/30DaysOfCode/Prepare_Tutorials_30DaysOfCode_Day0HelloWorld.cpp)                             |
+|   1   |               Data Types                |          [Problem](https://www.hackerrank.com/challenges/30-data-types/problem)          |    Easy    |      [Solution](/30DaysOfCode/Prepare_Tutorials_30DaysOfCode_day1DataTypes.cpp)                              |
+|   2   |                Operators                |          [Problem](https://www.hackerrank.com/challenges/30-operators/problem)           |    Easy    |      [Solution](/30DaysOfCode/Prepare_Tutorials_30DaysOfCode_Day2Operators.cpp)                              |
+|   3   |     Intro to Conditional Statements     |    [Problem](https://www.hackerrank.com/challenges/30-conditional-statements/problem)    |    Easy    |      [Solution](/30DaysOfCode/Prepare_Tutorials_30DAysOfCode.cpp)                                            |
+|   4   |           Class vs. Instance            |      [Problem](https://www.hackerrank.com/challenges/30-class-vs-instance/problem)       |    Easy    |      [Solution](/30DaysOfCode/Prepare_Tutorials_30DaysOfCode_Day4ClassVsInstance.cpp)                        |
+|   5   |                  Loops                  |            [Problem](https://www.hackerrank.com/challenges/30-loops/problem)             |    Easy    |      [Solution](/30DaysOfCode/Prepare_Tutorials_30DaysOfCode_Day5Loops.cpp)                                  |
+|   6   |              Let's Review               |         [Problem](https://www.hackerrank.com/challenges/30-review-loop/problem)          |    Easy    |      [Solution](/30DaysOfCode/Prepare_Tutorials_30DaysOfCode_Day6LetsReview.cpp)                             |
+|   7   |                 Arrays                  |            [Problem](https://www.hackerrank.com/challenges/30-arrays/problem)            |    Easy    |      [Solution](/30DaysOfCode/Prepare_Tutprials_30DaysOfCode_Day7Arrays.cpp)                                 |
+|   8   |          Dictionaries and Maps          |    [Problem](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem)     |    Easy    |      [Solution](/30DaysOfCode/Prepare_Tutprials_30DaysOfCode_Day8DictionariesAndMaps.cpp)                    |
+|   9   |               Recursion 3               |    [Problem](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem)     |    Easy    |      [Solution](/30DaysOfCode/Prepare_Tutorials_30DaysOfCode_Day9Recursion3.cpp)                             |
+|  10   |             Binary Numbers              |        [Problem](https://www.hackerrank.com/challenges/30-binary-numbers/problem)        |    Easy    |      [Solution](/30DaysOfCode/Prepare_Tutorials_30DaysOfCode_Day10BinaryNumbers.cpp)                         |
+|  11   |                2D Arrays                |          [Problem](https://www.hackerrank.com/challenges/30-2d-arrays/problem)           |    Easy    |      [Solution](/30DaysOfCode/Prepare_Tutorials_30days_Day11TwoDArray.cpp)                                   |
+|  12   |               Inheritance               |         [Problem](https://www.hackerrank.com/challenges/30-inheritance/problem)          |    Easy    |      [Solution](/30DaysOfCode/Prepare_Tutorials_30DaysOfCode_Day12Inheritance.cpp)                           |
+|  13   |            Abstract Classes             |       [Problem](https://www.hackerrank.com/challenges/30-abstract-classes/problem)       |    Easy    |      [Solution](/30DaysOfCode/Prepare_Tutorials_30DaysOfCode_Day13AbstractClasses.cpp)                       |
+|  14   |                  Scope                  |            [Problem](https://www.hackerrank.com/challenges/30-scope/problem)             |    Easy    |      [Solution](/30DaysOfCode/Prepare_Tutorials_30DaysOfCode_Day14Scope.cpp)                                 |
+|  15   |               Linked List               |         [Problem](https://www.hackerrank.com/challenges/30-linked-list/problem)          |    Easy    |      [Solution](/30DaysOfCode/Prepare_Tutorials_30DaysOfCode_Day15LinkedList.cpp)                            |
+|  16   |     Exceptions - String to Integer      | [Problem](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer/problem) |    Easy    |      [Solution](/30DaysOfCode/Prepare_Tutorials_30DaysOfCode_Day16ExceptionsStringToInteger.cpp)             |
+|  17   |             More Exceptions             |       [Problem](https://www.hackerrank.com/challenges/30-more-exceptions/problem)        |    Easy    |      [Solution](/30DaysOfCode/Prepare_Tutorials_30DayOfCode_Day17MoreExceptions.cpp)                         |
+|  18   |            Queues and Stack             |        [Problem](https://www.hackerrank.com/challenges/30-queues-stacks/problem)         |    Easy    |      [Solution](/30DaysOfCode/Prepare_Tutorials_30DaysOfCode_Day18QueuesAndStacks.cpp)                       |
+|  19   |               Interfaces                |          [Problem](https://www.hackerrank.com/challenges/30-interfaces/problem)          |    Easy    |      [Solution](/30DaysOfCode/Prepare_Tutorials_30DaysOfCode_Day19Interfaces.cpp)                            |
+|  20   |                 Sorting                 |           [Problem](https://www.hackerrank.com/challenges/30-sorting/problem)            |    Easy    |      [Solution](/30DaysOfCode/Prepare_Tutorials_30DaysOfCode_Day20Sorting.cpp)                               |
+|  21   |                Generics                 |           [Problem](https://www.hackerrank.com/challenges/30-generics/problem)           |    Easy    |      [Solution](/30DaysOfCode/Prepare_Tutorials_30DaysOfCode_day21Generics.cpp)                              |
+|  22   |           Binary Search Trees           |     [Problem](https://www.hackerrank.com/challenges/30-binary-search-trees/problem)      |    Easy    |      [Solution](/30DaysOfCode/Prepare_Tutorials_30DaysOfCode_Day22BindarySearchTrees.cpp)                    |
+|  23   |        BST Level-Order Traversal        |         [Problem](https://www.hackerrank.com/challenges/30-binary-trees/problem)         |    Easy    |      [Solution](/30DaysOfCode/Prepare_Tutorials_30DaysOfCode_Day23BSTLevelOrderTraversal.cpp)                |
+|  24   |            More Linked Lists            |     [Problem](https://www.hackerrank.com/challenges/30-linked-list-deletion/problem)     |    Easy    |      [Solution](/30DaysOfCode/Prepare_Tutorails_30DaysOfCode_Day24MoreLinkedLists.cpp)                       |
+|  25   |       Running Time and Complexity       | [Problem](https://www.hackerrank.com/challenges/30-running-time-and-complexity/problem)  |   Medium   |      [Solution](/30DaysOfCode/Prepare_Tutorials_30DaysOfCode_Day25RunningTimeAndComplexity.cpp)              |
+|  26   |              Nested Logic               |         [Problem](https://www.hackerrank.com/challenges/30-nested-logic/problem)         |    Easy    |      [Solution](/30DaysOfCode/Prepare_Tutorials_30DaysofCode_day26NestedLogic.cpp)                           |
+|  27   |                 Testing                 |           [Problem](https://www.hackerrank.com/challenges/30-testing/problem)            |    Easy    |      [Solution](/30DaysOfCode/Prepare_Tutorials_30DaysOfCode_Day27Testing.cpp)                               |
+|  28   | RegEx, Patterns, and Intro to Databases |        [Problem](https://www.hackerrank.com/challenges/30-regex-patterns/problem)        |   Medium   |      [Solution](/30DaysOfCode/Prepare_Tutorials_30DaysOfCode_Day28RegExPattersAndIntroToDataBases.cpp)       |
+|  29   |               Bitwise AND               |         [Problem](https://www.hackerrank.com/challenges/30-bitwise-and/problem)          |   Medium   |      [Solution](/30DaysOfCode/Prepare_Tutorials_30DaysOfCode_Day29BitwiseAnd.cpp)                            |
 
 ## Certificates
 |      Skill      |                                     Test                                      |  Difficulty  |                                                               Description                                                               |          Certificate                                                         |
