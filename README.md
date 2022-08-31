@@ -128,7 +128,7 @@ This repository consists of solutions to HackerRank **practice**, **tutorials**,
 |   Basic Data Types      |               Nested Lists                         |               [Problem](https://www.hackerrank.com/challenges/nested-list/problem)                                             |    Easy    |      [Solution](/Python/Prepare_Python_BasicDataTypes_NestedLists.py)                                         |
 |   Basic Data Types      |          Finding the percentage                    |         [Problem](https://www.hackerrank.com/challenges/finding-the-percentage/problem)                                        |    Easy    |      [Solution](/Python/Prepare_Python_BasicDataTypes_FindingTherPercentage.py)                               |
 |   Basic Data Types      |                   Lists                            |              [Problem](https://www.hackerrank.com/challenges/python-lists/problem)                                             |    Easy    |      [Solution](/Python/Prepare_Python_BasicDataTypes_Lists.py)                                               |
-#|   Basic Data Types      |                  Tuples                            |              [Problem](https://www.hackerrank.com/challenges/python-tuples/problem)                                            |    Easy    |      [Solution](/Python/) |
+|   Basic Data Types      |                  Tuples                            |              [Problem](https://www.hackerrank.com/challenges/python-tuples/problem)                                            |    Easy    |      [Solution](/Python/Prepare_Python_BasicDataTypes_Tuples.py)                                              |
 |        Strings          |                 sWAP cASE                          |                [Problem](https://www.hackerrank.com/challenges/swap-case/problem)                                              |    Easy    |      [Solution](/Python/Prepare_Python_String_sWARcASE.py)                                                    |
 |        Strings          |           String Split and Join                    |      [Problem](https://www.hackerrank.com/challenges/python-string-split-and-join/problem)                                     |    Easy    |      [Solution](/Python/Prepare_Python_Strings_StringSplitAndJoin.py)                                         |
 |        Strings          |             What's Your Name?                      |             [Problem](https://www.hackerrank.com/challenges/whats-your-name/problem)                                           |    Easy    |      [Solution](/Python/Prepare_Python_Strings_WhatsYourName.py)                                              |
@@ -500,86 +500,127 @@ This repository consists of solutions to HackerRank **practice**, **tutorials**,
 | Advanced        |  Array and Queries                                      |       [Problem](https://www.hackerrank.com/challenges/array-and-queries-1/problem?isFullScreen=true)                                            |    Hard    |       [Solution](/)        |
 
 ### Algorithms
-|    Subdomain    |                 Challenge                  |                                               Problem                                                  | Difficulty |                                                Solution                                                 |
-| :-------------: | :----------------------------------------: | :----------------------------------------------------------------------------------------------------: | :--------: | :-----------------------------------------------------------------------------------------------------: |
-| Warmup          | Solve Me First                             |       [Problem](https://www.hackerrank.com/challenges/solve-me-first/problem?isFullScreen=true)        |    Easy    |       [Solution](/)        |
-| Warmup          | Simple Array Sum                           |       [Problem](https://www.hackerrank.com/challenges/simple-array-sum/problem?isFullScreen=true)      |    Easy    |       [Solution](/)        |
-| Warmup          | Compare the Triplets                       |       [Problem](https://www.hackerrank.com/challenges/compare-the-triplets/problem?isFullScreen=true)  |    Easy    |       [Solution](/)        |
-| Warmup          | A Very Big Sum                             |       [Problem](https://www.hackerrank.com/challenges/a-very-big-sum/problem?isFullScreen=true)        |    Easy    |       [Solution](/)        |
-| Warmup          | Diagonal Difference                        |       [Problem](https://www.hackerrank.com/challenges/diagonal-difference/problem?isFullScreen=true)   |    Easy    |       [Solution](/)        |
-| Warmup          | Plus Minus                                 |       [Problem](https://www.hackerrank.com/challenges/plus-minus/problem?isFullScreen=true)            |    Easy    |       [Solution](/)        |
-| Warmup          | Staircase                                  |       [Problem](https://www.hackerrank.com/challenges/staircase/problem?isFullScreen=true)             |    Easy    |       [Solution](/)        |
-| Warmup          | Min-Max Sum                                |       [Problem](https://www.hackerrank.com/challenges/mini-max-sum/problem?isFullScreen=true)          |    Easy    |       [Solution](/)        |
-| Warmup          | Birthday Cake Candles                      |       [Problem](https://www.hackerrank.com/challenges/birthday-cake-candles/problem?isFullScreen=true) |    Easy    |       [Solution](/)        |
-| Warmup          | Time Conversion                            |       [Problem](https://www.hackerrank.com/challenges/time-conversion/problem?isFullScreen=true)       |    Easy    |       [Solution](/)        |
-| Implementation  |              |       [Problem]()       |   Medium   |       [Solution](/)        |
-| Implementation  |              |       [Problem]()       |   Medium   |       [Solution](/)        |
-| Implementation  |              |       [Problem]()       |   Medium   |       [Solution](/)        |
-| Implementation  |              |       [Problem]()       |   Medium   |       [Solution](/)        |
-| Implementation  |              |       [Problem]()       |   Medium   |       [Solution](/)        |
-| Implementation  |              |       [Problem]()       |   Medium   |       [Solution](/)        |
-| Implementation  |              |       [Problem]()       |   Medium   |       [Solution](/)        |
-| Implementation  |              |       [Problem]()       |   Medium   |       [Solution](/)        |
-| Implementation  |              |       [Problem]()       |   Medium   |       [Solution](/)        |
-| Implementation  |              |       [Problem]()       |   Medium   |       [Solution](/)        |
-| Implementation  |              |       [Problem]()       |   Medium   |       [Solution](/)        |
-| Implementation  |              |       [Problem]()       |   Medium   |       [Solution](/)        |
-| Implementation  |              |       [Problem]()       |   Medium   |       [Solution](/)        |
-| Implementation  |              |       [Problem]()       |   Medium   |       [Solution](/)        |
-| Implementation  |              |       [Problem]()       |   Medium   |       [Solution](/)        |
-| Implementation  |              |       [Problem]()       |   Medium   |       [Solution](/)        |
-| Implementation  |              |       [Problem]()       |   Medium   |       [Solution](/)        |
-| Implementation  |              |       [Problem]()       |   Medium   |       [Solution](/)        |
-| Implementation  |              |       [Problem]()       |   Medium   |       [Solution](/)        |
-| Implementation  |              |       [Problem]()       |   Medium   |       [Solution](/)        |
-| Implementation  |              |       [Problem]()       |   Medium   |       [Solution](/)        |
-| Implementation  |              |       [Problem]()       |   Medium   |       [Solution](/)        |
-| Implementation  |              |       [Problem]()       |   Medium   |       [Solution](/)        |
-| Implementation  |              |       [Problem]()       |   Medium   |       [Solution](/)        |
-| Implementation  |              |       [Problem]()       |   Medium   |       [Solution](/)        |
-| Implementation  |              |       [Problem]()       |   Medium   |       [Solution](/)        |
-| Implementation  |              |       [Problem]()       |   Medium   |       [Solution](/)        |
-| Implementation  |              |       [Problem]()       |   Medium   |       [Solution](/)        |
-| Implementation  |              |       [Problem]()       |   Medium   |       [Solution](/)        |
-| Implementation  |              |       [Problem]()       |   Medium   |       [Solution](/)        |
-| Implementation  |              |       [Problem]()       |   Medium   |       [Solution](/)        |
-| Implementation  |              |       [Problem]()       |   Medium   |       [Solution](/)        |
-| Implementation  |              |       [Problem]()       |   Medium   |       [Solution](/)        |
-| Implementation  |              |       [Problem]()       |   Medium   |       [Solution](/)        |
-| Implementation  |              |       [Problem]()       |   Medium   |       [Solution](/)        |
-| Implementation  |              |       [Problem]()       |   Medium   |       [Solution](/)        |
-| Implementation  |              |       [Problem]()       |   Medium   |       [Solution](/)        |
-| Implementation  |              |       [Problem]()       |   Medium   |       [Solution](/)        |
-| Implementation  |              |       [Problem]()       |   Medium   |       [Solution](/)        |
-| Implementation  |              |       [Problem]()       |   Medium   |       [Solution](/)        |
-| Implementation  |              |       [Problem]()       |   Medium   |       [Solution](/)        |
-| Implementation  |              |       [Problem]()       |   Medium   |       [Solution](/)        |
-| Implementation  |              |       [Problem]()       |   Medium   |       [Solution](/)        |
-| Implementation  |              |       [Problem]()       |   Medium   |       [Solution](/)        |
-| Implementation  |              |       [Problem]()       |   Medium   |       [Solution](/)        |
-| Implementation  |              |       [Problem]()       |   Medium   |       [Solution](/)        |
-| Implementation  |              |       [Problem]()       |   Medium   |       [Solution](/)        |
-| Implementation  |              |       [Problem]()       |   Medium   |       [Solution](/)        |
-| Implementation  |              |       [Problem]()       |   Medium   |       [Solution](/)        |
-| Implementation  |              |       [Problem]()       |   Medium   |       [Solution](/)        |
-| Implementation  |              |       [Problem]()       |   Medium   |       [Solution](/)        |
-| Implementation  |              |       [Problem]()       |   Medium   |       [Solution](/)        |
-| Implementation  |              |       [Problem]()       |   Medium   |       [Solution](/)        |
-| Implementation  |              |       [Problem]()       |   Medium   |       [Solution](/)        |
-| Implementation  |              |       [Problem]()       |   Medium   |       [Solution](/)        |
-| Implementation  |              |       [Problem]()       |   Medium   |       [Solution](/)        |
-| Implementation  |              |       [Problem]()       |   Medium   |       [Solution](/)        |
-| Implementation  |              |       [Problem]()       |   Medium   |       [Solution](/)        |
-| Implementation  |              |       [Problem]()       |   Medium   |       [Solution](/)        |
-| Implementation  |              |       [Problem]()       |   Medium   |       [Solution](/)        |
-| Implementation  |              |       [Problem]()       |   Medium   |       [Solution](/)        |
-| Implementation  |              |       [Problem]()       |   Medium   |       [Solution](/)        |
-| Implementation  |              |       [Problem]()       |   Medium   |       [Solution](/)        |
-| Implementation  |              |       [Problem]()       |   Medium   |       [Solution](/)        |
-| Implementation  |              |       [Problem]()       |   Medium   |       [Solution](/)        |
-| Implementation  |              |       [Problem]()       |   Medium   |       [Solution](/)        |
-| Implementation  |              |       [Problem]()       |   Medium   |       [Solution](/)        |
-| Implementation  |              |       [Problem]()       |   Medium   |       [Solution](/)        |
+|    Subdomain    |                 Challenge                  |                                               Problem                                                            | Difficulty |                                                Solution                                                 |
+| :-------------: | :----------------------------------------: | :--------------------------------------------------------------------------------------------------------------: | :--------: | :-----------------------------------------------------------------------------------------------------: |
+| Warmup          | Solve Me First                             |       [Problem](https://www.hackerrank.com/challenges/solve-me-first/problem?isFullScreen=true)                  |    Easy    |       [Solution](/)        |
+| Warmup          | Simple Array Sum                           |       [Problem](https://www.hackerrank.com/challenges/simple-array-sum/problem?isFullScreen=true)                |    Easy    |       [Solution](/)        |
+| Warmup          | Compare the Triplets                       |       [Problem](https://www.hackerrank.com/challenges/compare-the-triplets/problem?isFullScreen=true)            |    Easy    |       [Solution](/)        |
+| Warmup          | A Very Big Sum                             |       [Problem](https://www.hackerrank.com/challenges/a-very-big-sum/problem?isFullScreen=true)                  |    Easy    |       [Solution](/)        |
+| Warmup          | Diagonal Difference                        |       [Problem](https://www.hackerrank.com/challenges/diagonal-difference/problem?isFullScreen=true)             |    Easy    |       [Solution](/)        |
+| Warmup          | Plus Minus                                 |       [Problem](https://www.hackerrank.com/challenges/plus-minus/problem?isFullScreen=true)                      |    Easy    |       [Solution](/)        |
+| Warmup          | Staircase                                  |       [Problem](https://www.hackerrank.com/challenges/staircase/problem?isFullScreen=true)                       |    Easy    |       [Solution](/)        |
+| Warmup          | Min-Max Sum                                |       [Problem](https://www.hackerrank.com/challenges/mini-max-sum/problem?isFullScreen=true)                    |    Easy    |       [Solution](/)        |
+| Warmup          | Birthday Cake Candles                      |       [Problem](https://www.hackerrank.com/challenges/birthday-cake-candles/problem?isFullScreen=true)           |    Easy    |       [Solution](/)        |
+| Warmup          | Time Conversion                            |       [Problem](https://www.hackerrank.com/challenges/time-conversion/problem?isFullScreen=true)                 |    Easy    |       [Solution](/)        |
+| Implementation  | Grading Students                           |       [Problem](https://www.hackerrank.com/challenges/grading/problem?isFullScreen=true)                         |    Easy    |       [Solution](/)        |
+| Implementation  | Apple and Orange                           |       [Problem](https://www.hackerrank.com/challenges/apple-and-orange/problem?isFullScreen=true)                |    Easy    |       [Solution](/)        |
+| Implementation  | Number Line Jumps                          |       [Problem](https://www.hackerrank.com/challenges/kangaroo/problem?isFullScreen=true)                        |    Easy    |       [Solution](/)        |
+| Implementation  | Between Two Sets                           |       [Problem](https://www.hackerrank.com/challenges/between-two-sets/problem?isFullScreen=true)                |    Easy    |       [Solution](/)        |
+| Implementation  | Breaking the Records                       |       [Problem](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem?isFullScreen=true) |    Easy    |       [Solution](/)        |
+| Implementation  | Subarray Division                          |       [Problem](https://www.hackerrank.com/challenges/the-birthday-bar/problem?isFullScreen=true)                |    Easy    |       [Solution](/)        |
+| Implementation  | Divisible Sum Pairs                        |       [Problem](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem?isFullScreen=true)             |    Easy    |       [Solution](/)        |
+| Implementation  | Migratory Birds                            |       [Problem](https://www.hackerrank.com/challenges/migratory-birds/problem?isFullScreen=true)                 |    Easy    |       [Solution](/)        |
+| Implementation  | Day of the Programmer                      |       [Problem](https://www.hackerrank.com/challenges/day-of-the-programmer/problem?isFullScreen=true)           |    Easy    |       [Solution](/)        |
+| Implementation  | Bill Division                              |       [Problem](https://www.hackerrank.com/challenges/bon-appetit/problem?isFullScreen=true)                     |    Easy    |       [Solution](/)        |
+| Implementation  | Sales by Match                             |       [Problem](https://www.hackerrank.com/challenges/sock-merchant/problem?isFullScreen=true)                   |    Easy    |       [Solution](/)        |
+| Implementation  | Drawing Book                               |       [Problem](https://www.hackerrank.com/challenges/drawing-book/problem?isFullScreen=true)                    |    Easy    |       [Solution](/)        |
+| Implementation  | Counting Valleys                           |       [Problem](https://www.hackerrank.com/challenges/counting-valleys/problem?isFullScreen=true)                |    Easy    |       [Solution](/)        |
+| Implementation  | Electronics Shop                           |       [Problem](https://www.hackerrank.com/challenges/electronics-shop/problem?isFullScreen=true)                |    Easy    |       [Solution](/)        |
+| Implementation  | Cats and a Mouse                           |       [Problem](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem?isFullScreen=true)                |    Easy    |       [Solution](/)        |
+| Implementation  | Forming a Magic Square                     |       [Problem](https://www.hackerrank.com/challenges/magic-square-forming/problem?isFullScreen=true)            |   Medium   |       [Solution](/)        |
+| Implementation  | Picking Numbers                            |       [Problem](https://www.hackerrank.com/challenges/picking-numbers/problem?isFullScreen=true)                 |    Easy    |       [Solution](/)        |
+| Implementation  | Climbing the Leaderboard                   |       [Problem](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem?isFullScreen=true)        |   Medium   |       [Solution](/)        |
+| Implementation  | The Hurdle Race                            |       [Problem](https://www.hackerrank.com/challenges/the-hurdle-race/problem?isFullScreen=true)                 |    Easy    |       [Solution](/)        |
+| Implementation  | Designer PDF Viewer                        |       [Problem](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem?isFullScreen=true)             |    Easy    |       [Solution](/)        |
+| Implementation  | Utopian Tree                               |       [Problem](https://www.hackerrank.com/challenges/utopian-tree/problem?isFullScreen=true)                    |    Easy    |       [Solution](/)        |
+| Implementation  | Angry Professor                            |       [Problem](https://www.hackerrank.com/challenges/angry-professor/problem?isFullScreen=true)                 |    Easy    |       [Solution](/)        |
+| Implementation  | Beautiful Days at the Movies               |       [Problem](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem?isFullScreen=true)    |    Easy    |       [Solution](/)        |
+| Implementation  | Viral Advertising                          |       [Problem](https://www.hackerrank.com/challenges/strange-advertising/problem?isFullScreen=true)             |    Easy    |       [Solution](/)        |
+| Implementation  | Save the Prisoner!                         |       [Problem](https://www.hackerrank.com/challenges/save-the-prisoner/problem?isFullScreen=true)               |    Easy    |       [Solution](/)        |
+| Implementation  | Circular Array Rotation                    |       [Problem](https://www.hackerrank.com/challenges/circular-array-rotation/problem?isFullScreen=true)         |    Easy    |       [Solution](/)        |
+| Implementation  | Sequence Equation                          |       [Problem](https://www.hackerrank.com/challenges/permutation-equation/problem?isFullScreen=true)            |    Easy    |       [Solution](/)        |
+| Implementation  | Jumping on the Clouds: Revisited           |       [Problem](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem?isFullScreen=true) |    Easy    |       [Solution](/)        |
+| Implementation  | Find Digits                                |       [Problem](https://www.hackerrank.com/challenges/find-digits/problem?isFullScreen=true)                     |    Easy    |       [Solution](/)        |
+| Implementation  | Extra Long Factorials                      |       [Problem](https://www.hackerrank.com/challenges/extra-long-factorials/problem?isFullScreen=true)           |   Medium   |       [Solution](/)        |
+| Implementation  | Append and Delete                          |       [Problem](https://www.hackerrank.com/challenges/append-and-delete/problem?isFullScreen=true)               |    Easy    |       [Solution](/)        |
+| Implementation  | Sherlock and Squares                       |       [Problem](https://www.hackerrank.com/challenges/sherlock-and-squares/problem?isFullScreen=true)            |    Easy    |       [Solution](/)        |
+| Implementation  | Library Fine                               |       [Problem](https://www.hackerrank.com/challenges/library-fine/problem?isFullScreen=true)                    |    Easy    |       [Solution](/)        |
+| Implementation  | Cut the sticks                             |       [Problem](https://www.hackerrank.com/challenges/cut-the-sticks/problem?isFullScreen=true)                  |    Easy    |       [Solution](/)        |
+| Implementation  | Non-Divisible Subset                       |       [Problem](https://www.hackerrank.com/challenges/non-divisible-subset/problem?isFullScreen=true)            |   Medium   |       [Solution](/)        |
+| Implementation  | Repeated String                            |       [Problem](https://www.hackerrank.com/challenges/repeated-string/problem?isFullScreen=true)                 |    Easy    |       [Solution](/)        |
+| Implementation  | Jumping on the Clouds                      |       [Problem](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem?isFullScreen=true)           |    Easy    |       [Solution](/)        |
+| Implementation  | Equalize the Array                         |       [Problem](https://www.hackerrank.com/challenges/equality-in-a-array/problem?isFullScreen=true)             |    Easy    |       [Solution](/)        |
+| Implementation  | Queen's Attack II                          |       [Problem](https://www.hackerrank.com/challenges/queens-attack-2/problem?isFullScreen=true)                 |   Medium   |       [Solution](/)        |
+| Implementation  | ACM ICPC Team                              |       [Problem](https://www.hackerrank.com/challenges/acm-icpc-team/problem?isFullScreen=true)                   |    Easy    |       [Solution](/)        |
+| Implementation  | Taum and B'day                             |       [Problem](https://www.hackerrank.com/challenges/taum-and-bday/problem?isFullScreen=true)                   |    Easy    |       [Solution](/)        |
+| Implementation  | Organizing Containers of Balls             |       [Problem](https://www.hackerrank.com/challenges/organizing-containers-of-balls/problem?isFullScreen=true)  |   Medium   |       [Solution](/)        |
+| Implementation  | Encryption                                 |       [Problem](https://www.hackerrank.com/challenges/encryption/problem?isFullScreen=true)                      |   Medium   |       [Solution](/)        |
+| Implementation  | Bigger is Greater                          |       [Problem](https://www.hackerrank.com/challenges/bigger-is-greater/problem?isFullScreen=true)               |   Medium   |       [Solution](/)        |
+| Implementation  | Modified Kaprekar Numbers                  |       [Problem](https://www.hackerrank.com/challenges/kaprekar-numbers/problem?isFullScreen=true)                |    Easy    |       [Solution](/)        |
+| Implementation  | Beautiful Triplets                         |       [Problem](https://www.hackerrank.com/challenges/beautiful-triplets/problem?isFullScreen=true)              |    Easy    |       [Solution](/)        |
+| Implementation  | Minimum Distances                          |       [Problem](https://www.hackerrank.com/challenges/minimum-distances/problem?isFullScreen=true)               |    Easy    |       [Solution](/)        |
+| Implementation  | Halloween Sale                             |       [Problem](https://www.hackerrank.com/challenges/halloween-sale/problem?isFullScreen=true)                  |    Easy    |       [Solution](/)        |
+| Implementation  | The Time in Words                          |       [Problem](https://www.hackerrank.com/challenges/the-time-in-words/problem?isFullScreen=true)               |   Medium   |       [Solution](/)        |
+| Implementation  | Chocolate Feast                            |       [Problem](https://www.hackerrank.com/challenges/chocolate-feast/problem?isFullScreen=true)                 |    Easy    |       [Solution](/)        |
+| Implementation  | Service Lane                               |       [Problem](https://www.hackerrank.com/challenges/service-lane/problem?isFullScreen=true)                    |    Easy    |       [Solution](/)        |
+| Implementation  | Lisa's Workbook                            |       [Problem](https://www.hackerrank.com/challenges/lisa-workbook/problem?isFullScreen=true)                   |    Easy    |       [Solution](/)        |
+| Implementation  | Flatland Space Stations                    |       [Problem](https://www.hackerrank.com/challenges/flatland-space-stations/problem?isFullScreen=true)         |    Easy    |       [Solution](/)        |
+| Implementation  | Fair Rations                               |       [Problem](https://www.hackerrank.com/challenges/fair-rations/problem?isFullScreen=true)                    |    Easy    |       [Solution](/)        |
+| Implementation  | Cavity Map                                 |       [Problem](https://www.hackerrank.com/challenges/cavity-map/problem?isFullScreen=true)                      |    Easy    |       [Solution](/)        |
+| Implementation  | Manasa and Stones                          |       [Problem](https://www.hackerrank.com/challenges/manasa-and-stones/problem?isFullScreen=true)               |    Easy    |       [Solution](/)        |
+| Implementation  | The Grid Search                            |       [Problem](https://www.hackerrank.com/challenges/the-grid-search/problem?isFullScreen=true)                 |   Medium   |       [Solution](/)        |
+| Implementation  | Happy Ladybugs                             |       [Problem](https://www.hackerrank.com/challenges/happy-ladybugs/problem?isFullScreen=true)                  |    Easy    |       [Solution](/)        |
+| Implementation  | Strange Counter                            |       [Problem](https://www.hackerrank.com/challenges/strange-code/problem?isFullScreen=true)                    |    Easy    |       [Solution](/)        |
+| Implementation  | 3D Surface Area                            |       [Problem](https://www.hackerrank.com/challenges/3d-surface-area/problem?isFullScreen=true)                 |   Medium   |       [Solution](/)        |
+| Implementation  | Absolute Permutation                       |       [Problem](https://www.hackerrank.com/challenges/absolute-permutation/problem?isFullScreen=true)            |   Medium   |       [Solution](/)        |
+| Implementation  | The Bomberman Game                         |       [Problem](https://www.hackerrank.com/challenges/bomber-man/problem?isFullScreen=true)                      |   Medium   |       [Solution](/)        |
+| Implementation  | Ema's Supercomputer                        |       [Problem](https://www.hackerrank.com/challenges/two-pluses/problem?isFullScreen=true)                      |   Medium   |       [Solution](/)        |
+| Implementation  | Larry's Array                              |       [Problem](https://www.hackerrank.com/challenges/larrys-array/problem?isFullScreen=true)                    |   Medium   |       [Solution](/)        |
+| Implementation  | Almost Sorted                              |       [Problem](https://www.hackerrank.com/challenges/almost-sorted/problem?isFullScreen=true)                   |   Medium   |       [Solution](/)        |
+| Implementation  | Matrix Layer Rotation                      |       [Problem](https://www.hackerrank.com/challenges/matrix-rotation-algo/problem?isFullScreen=true)            |    Hard    |       [Solution](/)        |
+| Implementation  |              |       [Problem]()       |    Easy    |       [Solution](/)        |
+| Implementation  |              |       [Problem]()       |    Easy    |       [Solution](/)        |
+| Strings         |              |       [Problem]()       |   Medium   |       [Solution](/)        |
+| Strings         |              |       [Problem]()       |   Medium   |       [Solution](/)        |
+| Strings         |              |       [Problem]()       |   Medium   |       [Solution](/)        |
+| Strings         |              |       [Problem]()       |   Medium   |       [Solution](/)        |
+| Strings         |              |       [Problem]()       |   Medium   |       [Solution](/)        |
+| Strings         |              |       [Problem]()       |   Medium   |       [Solution](/)        |
+| Strings         |              |       [Problem]()       |   Medium   |       [Solution](/)        |
+| Strings         |              |       [Problem]()       |   Medium   |       [Solution](/)        |
+| Strings         |              |       [Problem]()       |   Medium   |       [Solution](/)        |
+| Strings         |              |       [Problem]()       |   Medium   |       [Solution](/)        |
+| Strings         |              |       [Problem]()       |   Medium   |       [Solution](/)        |
+| Strings         |              |       [Problem]()       |   Medium   |       [Solution](/)        |
+| Strings         |              |       [Problem]()       |   Medium   |       [Solution](/)        |
+| Strings         |              |       [Problem]()       |   Medium   |       [Solution](/)        |
+| Strings         |              |       [Problem]()       |   Medium   |       [Solution](/)        |
+| Strings         |              |       [Problem]()       |   Medium   |       [Solution](/)        |
+| Strings         |              |       [Problem]()       |   Medium   |       [Solution](/)        |
+| Strings         |              |       [Problem]()       |   Medium   |       [Solution](/)        |
+| Strings         |              |       [Problem]()       |   Medium   |       [Solution](/)        |
+| Strings         |              |       [Problem]()       |   Medium   |       [Solution](/)        |
+| Strings         |              |       [Problem]()       |   Medium   |       [Solution](/)        |
+| Strings         |              |       [Problem]()       |   Medium   |       [Solution](/)        |
+| Strings         |              |       [Problem]()       |   Medium   |       [Solution](/)        |
+| Strings         |              |       [Problem]()       |   Medium   |       [Solution](/)        |
+| Strings         |              |       [Problem]()       |   Medium   |       [Solution](/)        |
+| Strings         |              |       [Problem]()       |   Medium   |       [Solution](/)        |
+| Strings         |              |       [Problem]()       |   Medium   |       [Solution](/)        |
+| Strings         |              |       [Problem]()       |   Medium   |       [Solution](/)        |
+| Strings         |              |       [Problem]()       |   Medium   |       [Solution](/)        |
+| Strings         |              |       [Problem]()       |   Medium   |       [Solution](/)        |
+| Strings         |              |       [Problem]()       |   Medium   |       [Solution](/)        |
+| Strings         |              |       [Problem]()       |   Medium   |       [Solution](/)        |
+| Strings         |              |       [Problem]()       |   Medium   |       [Solution](/)        |
+| Strings         |              |       [Problem]()       |   Medium   |       [Solution](/)        |
+| Strings         |              |       [Problem]()       |   Medium   |       [Solution](/)        |
+| Strings         |              |       [Problem]()       |   Medium   |       [Solution](/)        |
+| Strings         |              |       [Problem]()       |   Medium   |       [Solution](/)        |
+| Strings         |              |       [Problem]()       |   Medium   |       [Solution](/)        |
+| Strings         |              |       [Problem]()       |   Medium   |       [Solution](/)        |
+| Strings         |              |       [Problem]()       |   Medium   |       [Solution](/)        |
+|   |              |       [Problem]()       |   Medium   |       [Solution](/)        |
 
 
 ## Tutorials Completed
