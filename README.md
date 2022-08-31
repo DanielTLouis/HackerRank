@@ -62,6 +62,8 @@ This repository consists of solutions to HackerRank **practice**, **tutorials**,
 * [Java](#Java)
 * [C](#C)
 * [SQL](#sql)
+* [Data Structures](data-structures)
+* [Algorithms](algorithms)
 
 ### C++
 |       Subdomain       |                 Challenge                 |                                             Problem                                                          | Difficulty |         Solution                                                                   |
@@ -372,6 +374,38 @@ This repository consists of solutions to HackerRank **practice**, **tutorials**,
 |   Aggregation   |       Weather Observation Station 19       |       [Problem](https://www.hackerrank.com/challenges/weather-observation-station-19/problem)       |   Medium   |       [Solution](/SQL/)        |
 |   Aggregation   |       Weather Observation Station 20       |       [Problem](https://www.hackerrank.com/challenges/weather-observation-station-20/problem)       |   Medium   |       [Solution](/SQL/)        |
 
+### Data Structures
+|    Subdomain    |                 Challenge                               |                                               Problem                                               | Difficulty |                                                Solution                                                 |
+| :-------------: | :-----------------------------------------------------: | :-------------------------------------------------------------------------------------------------: | :--------: | :-----------------------------------------------------------------------------------------------------: |
+| Arrays          |  Arrays - DS                                            |       [Problem](https://www.hackerrank.com/challenges/arrays-ds/problem?isFullScreen=true)           |   Medium   |       [Solution](/)        |
+| Arrays          |  2D Array - DS                                          |       [Problem](https://www.hackerrank.com/challenges/2d-array/problem?isFullScreen=true)            |    Easy    |       [Solution](/)        |
+| Arrays          |  Dynamic Array                                          |       [Problem](https://www.hackerrank.com/challenges/dynamic-array/problem?isFullScreen=true)       |    Easy    |       [Solution](/)        |
+| Arrays          |  Left Rotation                                          |       [Problem](https://www.hackerrank.com/challenges/array-left-rotation/problem?isFullScreen=true) |    Easy    |       [Solution](/)        |
+| Arrays          |  Sparse Arrays                                          |       [Problem](https://www.hackerrank.com/challenges/sparse-arrays/problem?isFullScreen=true)       |   Medium   |       [Solution](/)        |
+| Arrays          |  Array Manipulation                                     |       [Problem](https://www.hackerrank.com/challenges/crush/problem?isFullScreen=true)               |    Hard    |       [Solution](/)        |
+| Linked Lists    |  Print the Elements of a Linked Lists                   |       [Problem]()       |    Easy    |       [Solution](/)        |
+| Linked Lists    |  Insert a Node at the Tail of a Linked List             |       [Problem]()       |    Easy    |       [Solution](/)        |
+| Linked Lists    |  Insert a node at the head of a Linked List             |       [Problem]()       |    Easy    |       [Solution](/)        |
+| Linked Lists    |  Insert a node at a specific position in a Linked List  |       [Problem]()       |    Easy    |       [Solution](/)        |
+| Linked Lists    |  Delete a Node                                          |       [Problem]()       |    Easy    |       [Solution](/)        |
+| Linked Lists    |  Print in Reverse                                       |       [Problem]()       |    Easy    |       [Solution](/)        |
+| Linked Lists    |  Reverse a Linked List                                  |       [Problem]()       |    Easy    |       [Solution](/)        |
+| Linked Lists    |  Compare Two Linked Lists                               |       [Problem]()       |    Easy    |       [Solution](/)        |
+| Linked Lists    |  Merge Two Sorted Linked Lists                          |       [Problem]()       |    Easy    |       [Solution](/)        |
+| Linked Lists    |  Get Node Value                                         |       [Problem]()       |    Easy    |       [Solution](/)        |
+| Linked Lists    |  Delete Duplicate-value nodes from a Sorted Linked List |       [Problem]()       |    Easy    |       [Solution](/)        |
+| Linked Lists    |  Cycle Detection                                        |       [Problem]()       |   Medium   |       [Solution](/)        |
+| Linked Lists    |  Find Merge Point of Two Lists                          |       [Problem]()       |    Easy    |       [Solution](/)        |
+| Linked Lists    |  Inserting a Node Into a Sorted Doubly Linked List      |       [Problem]()       |    Easy    |       [Solution](/)        |
+| Linked Lists    |  Reverse a Doubly Linked List                           |       [Problem]()       |    Easy    |       [Solution](/)        |
+|      |              |       [Problem]()       |   Medium   |       [Solution](/)        |
+
+### Algorithms
+|    Subdomain    |                 Challenge                  |                                               Problem                                               | Difficulty |                                                Solution                                                 |
+| :-------------: | :----------------------------------------: | :-------------------------------------------------------------------------------------------------: | :--------: | :-----------------------------------------------------------------------------------------------------: |
+|      |              |       [Problem]()       |   Medium   |       [Solution](/)        |
+
+
 ## Tutorials Completed
 * [10 Days of JavaScript](#10-days-of-javascript)
 * [10 Days of Statistics](#10-days-of-statistics)
@@ -412,30 +446,30 @@ This repository consists of solutions to HackerRank **practice**, **tutorials**,
 |   0   |         Mean, Median, and Mode          |           [Problem](https://www.hackerrank.com/challenges/s10-basic-statistics/problem)            |    Easy    |      [Solution](/10DaysOfStatistics/Prepare_Tutorials_10DaysOfStatistics_Day0MeanMedianMode.py)          |
 |   0   |              Weighted Mean              |             [Problem](https://www.hackerrank.com/challenges/s10-weighted-mean/problem)             |    Easy    |      [Solution](/10DaysOfStatistics/Prepare_Tutorials_10DaysOfStatistics_Day0WeightedMean.py)            |
 |   1   |                Quartiles                |               [Problem](https://www.hackerrank.com/challenges/s10-quartiles/problem)               |    Easy    |      [Solution](/10DaysOfStatistics/Prepare_Tutorials_10DaysOfStatistics_Day1Quartiles.py)               |
-|   1   |           Interquartile Range           |              [Problem](https://www.hackerrank.com/challenges/s10-interquartile-range)              |    Easy    |      [Solution](/10DaysOfStatistics/)                                                                    |
-|   1   |           Standard Deviation            |              [Problem](https://www.hackerrank.com/challenges/s10-standard-deviation)               |    Easy    |      [Solution](/10DaysOfStatistics/)                                                                    |
+#|   1   |           Interquartile Range           |              [Problem](https://www.hackerrank.com/challenges/s10-interquartile-range)              |    Easy    |      [Solution](/10DaysOfStatistics/)                                                                    |
+#|   1   |           Standard Deviation            |              [Problem](https://www.hackerrank.com/challenges/s10-standard-deviation)               |    Easy    |      [Solution](/10DaysOfStatistics/)                                                                    |
 |   2   |            Basic Probability            |                 [Problem](https://www.hackerrank.com/challenges/s10-mcq-1/problem)                 |    Easy    |      [Solution](/10DaysOfStatistics/Prepare_Tutorials_10DaysOfStatistics_Day2BasicProbablity.txt)        |
 |   2   |                More Dice                |                 [Problem](https://www.hackerrank.com/challenges/s10-mcq-2/problem)                 |    Easy    |      [Solution](/10DaysOfStatistics/Prepare_Tutorials_10DaysOfStatistics_Day2MoreDice.txt)               |
-|   2   |       Compound Event Probability        |                 [Problem](https://www.hackerrank.com/challenges/s10-mcq-3/problem)                 |    Easy    |      [Solution](/10DaysOfStatistics/)                                                                    |
-|   3   |         Conditional Probability         |                 [Problem](https://www.hackerrank.com/challenges/s10-mcq-4/problem)                 |    Easy    |      [Solution](/10DaysOfStatistics/)                                                                    |
-|   3   |         Cards of the Same Suit          |                 [Problem](https://www.hackerrank.com/challenges/s10-mcq-5/problem)                 |    Easy    |      [Solution](/10DaysOfStatistics/)                                                                    |
-|   3   |             Drawing Marbles             |                 [Problem](https://www.hackerrank.com/challenges/s10-mcq-6/problem)                 |    Easy    |      [Solution](/10DaysOfStatistics/)                                                                    |
-|   4   |         Binomial Distribution I         |        [Problem](https://www.hackerrank.com/challenges/s10-binomial-distribution-1/problem)        |    Easy    |      [Solution](/10DaysOfStatistics/)                                                                    |
-|   4   |        Binomial Distribution II         |        [Problem](https://www.hackerrank.com/challenges/s10-binomial-distribution-2/problem)        |    Easy    |      [Solution](/10DaysOfStatistics/)                                                                    |
-|   4   |        Geometric Distribution I         |       [Problem](https://www.hackerrank.com/challenges/s10-geometric-distribution-1/problem)        |    Easy    |      [Solution](/10DaysOfStatistics/)                                                                    |
-|   4   |        Geometric Distribution II        |       [Problem](https://www.hackerrank.com/challenges/s10-geometric-distribution-2/problem)        |    Easy    |      [Solution](/10DaysOfStatistics/)                                                                    |
-|   5   |         Poisson Distribution I          |        [Problem](https://www.hackerrank.com/challenges/s10-poisson-distribution-1/problem)         |    Easy    |      [Solution](/10DaysOfStatistics/)                                                                    |
-|   5   |         Poisson Distribution II         |        [Problem](https://www.hackerrank.com/challenges/s10-poisson-distribution-2/problem)         |    Easy    |      [Solution](/10DaysOfStatistics/)                                                                    |
-|   5   |          Normal Distribution I          |         [Problem](https://www.hackerrank.com/challenges/s10-normal-distribution-1/problem)         |    Easy    |      [Solution](/10DaysOfStatistics/)                                                                    |
-|   5   |         Normal Distribution II          |         [Problem](https://www.hackerrank.com/challenges/s10-normal-distribution-2/problem)         |    Easy    |      [Solution](/10DaysOfStatistics/)                                                                    |
+#|   2   |       Compound Event Probability        |                 [Problem](https://www.hackerrank.com/challenges/s10-mcq-3/problem)                 |    Easy    |      [Solution](/10DaysOfStatistics/)                                                                    |
+#|   3   |         Conditional Probability         |                 [Problem](https://www.hackerrank.com/challenges/s10-mcq-4/problem)                 |    Easy    |      [Solution](/10DaysOfStatistics/)                                                                    |
+#|   3   |         Cards of the Same Suit          |                 [Problem](https://www.hackerrank.com/challenges/s10-mcq-5/problem)                 |    Easy    |      [Solution](/10DaysOfStatistics/)                                                                    |
+#|   3   |             Drawing Marbles             |                 [Problem](https://www.hackerrank.com/challenges/s10-mcq-6/problem)                 |    Easy    |      [Solution](/10DaysOfStatistics/)                                                                    |
+#|   4   |         Binomial Distribution I         |        [Problem](https://www.hackerrank.com/challenges/s10-binomial-distribution-1/problem)        |    Easy    |      [Solution](/10DaysOfStatistics/)                                                                    |
+#|   4   |        Binomial Distribution II         |        [Problem](https://www.hackerrank.com/challenges/s10-binomial-distribution-2/problem)        |    Easy    |      [Solution](/10DaysOfStatistics/)                                                                    |
+#|   4   |        Geometric Distribution I         |       [Problem](https://www.hackerrank.com/challenges/s10-geometric-distribution-1/problem)        |    Easy    |      [Solution](/10DaysOfStatistics/)                                                                    |
+#|   4   |        Geometric Distribution II        |       [Problem](https://www.hackerrank.com/challenges/s10-geometric-distribution-2/problem)        |    Easy    |      [Solution](/10DaysOfStatistics/)                                                                    |
+#|   5   |         Poisson Distribution I          |        [Problem](https://www.hackerrank.com/challenges/s10-poisson-distribution-1/problem)         |    Easy    |      [Solution](/10DaysOfStatistics/)                                                                    |
+#|   5   |         Poisson Distribution II         |        [Problem](https://www.hackerrank.com/challenges/s10-poisson-distribution-2/problem)         |    Easy    |      [Solution](/10DaysOfStatistics/)                                                                    |
+#|   5   |          Normal Distribution I          |         [Problem](https://www.hackerrank.com/challenges/s10-normal-distribution-1/problem)         |    Easy    |      [Solution](/10DaysOfStatistics/)                                                                    |
+#|   5   |         Normal Distribution II          |         [Problem](https://www.hackerrank.com/challenges/s10-normal-distribution-2/problem)         |    Easy    |      [Solution](/10DaysOfStatistics/)                                                                    |
 |   6   |       The Central Limit Theorem I       |      [Problem](https://www.hackerrank.com/challenges/s10-the-central-limit-theorem-1/problem)      |    Easy    |      [Solution](/10DaysOfStatistics/Prepare_Tutrials_10DaysOfStatistics_Day6TheCenteralLimitTheorem1.py) |
-|   6   |      The Central Limit Theorem II       |      [Problem](https://www.hackerrank.com/challenges/s10-the-central-limit-theorem-2/problem)      |    Easy    |      [Solution](/10DaysOfStatistics/)                                                                    |
-|   6   |      The Central Limit Theorem III      |      [Problem](https://www.hackerrank.com/challenges/s10-the-central-limit-theorem-3/problem)      |    Easy    |      [Solution](/10DaysOfStatistics/)                                                                    |
-|   7   |    Pearson Correlation Coefficient I    |    [Problem](https://www.hackerrank.com/challenges/s10-pearson-correlation-coefficient/problem)    |    Easy    |      [Solution](/10DaysOfStatistics/)                                                                    |
-|   7   | Spearman's Rank Correlation Coefficient | [Problem](https://www.hackerrank.com/challenges/s10-spearman-rank-correlation-coefficient/problem) |    Easy    |      [Solution](/10DaysOfStatistics/)                                                                    |
-|   8   |      Least Square Regression Line       |     [Problem](https://www.hackerrank.com/challenges/s10-least-square-regression-line/problem)      |    Easy    |      [Solution](/10DaysOfStatistics/)                                                                    |
-|   8   |   Pearson Correlation Coefficient II    |                 [Problem](https://www.hackerrank.com/challenges/s10-mcq-7/problem)                 |    Easy    |      [Solution](/10DaysOfStatistics/)                                                                    |
-|   9   |       Multiple Linear Regression        |      [Problem](https://www.hackerrank.com/challenges/s10-multiple-linear-regression/problem)       |   Medium   |      [Solution](/10DaysOfStatistics/)                                                                    |
+#|   6   |      The Central Limit Theorem II       |      [Problem](https://www.hackerrank.com/challenges/s10-the-central-limit-theorem-2/problem)      |    Easy    |      [Solution](/10DaysOfStatistics/)                                                                    |
+#|   6   |      The Central Limit Theorem III      |      [Problem](https://www.hackerrank.com/challenges/s10-the-central-limit-theorem-3/problem)      |    Easy    |      [Solution](/10DaysOfStatistics/)                                                                    |
+#|   7   |    Pearson Correlation Coefficient I    |    [Problem](https://www.hackerrank.com/challenges/s10-pearson-correlation-coefficient/problem)    |    Easy    |      [Solution](/10DaysOfStatistics/)                                                                    |
+#|   7   | Spearman's Rank Correlation Coefficient | [Problem](https://www.hackerrank.com/challenges/s10-spearman-rank-correlation-coefficient/problem) |    Easy    |      [Solution](/10DaysOfStatistics/)                                                                    |
+#|   8   |      Least Square Regression Line       |     [Problem](https://www.hackerrank.com/challenges/s10-least-square-regression-line/problem)      |    Easy    |      [Solution](/10DaysOfStatistics/)                                                                    |
+#|   8   |   Pearson Correlation Coefficient II    |                 [Problem](https://www.hackerrank.com/challenges/s10-mcq-7/problem)                 |    Easy    |      [Solution](/10DaysOfStatistics/)                                                                    |
+#|   9   |       Multiple Linear Regression        |      [Problem](https://www.hackerrank.com/challenges/s10-multiple-linear-regression/problem)       |   Medium   |      [Solution](/10DaysOfStatistics/)                                                                    |
 
 ### 30 Days of Code
 |  Day  |                Challenge                |                                         Problem                                          | Difficulty |          Solution                                                                                            |
