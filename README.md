@@ -578,48 +578,69 @@ This repository consists of solutions to HackerRank **practice**, **tutorials**,
 | Implementation  | Larry's Array                              |       [Problem](https://www.hackerrank.com/challenges/larrys-array/problem?isFullScreen=true)                    |   Medium   |       [Solution](/)        |
 | Implementation  | Almost Sorted                              |       [Problem](https://www.hackerrank.com/challenges/almost-sorted/problem?isFullScreen=true)                   |   Medium   |       [Solution](/)        |
 | Implementation  | Matrix Layer Rotation                      |       [Problem](https://www.hackerrank.com/challenges/matrix-rotation-algo/problem?isFullScreen=true)            |    Hard    |       [Solution](/)        |
-| Implementation  |              |       [Problem]()       |    Easy    |       [Solution](/)        |
-| Implementation  |              |       [Problem]()       |    Easy    |       [Solution](/)        |
-| Strings         |              |       [Problem]()       |   Medium   |       [Solution](/)        |
-| Strings         |              |       [Problem]()       |   Medium   |       [Solution](/)        |
-| Strings         |              |       [Problem]()       |   Medium   |       [Solution](/)        |
-| Strings         |              |       [Problem]()       |   Medium   |       [Solution](/)        |
-| Strings         |              |       [Problem]()       |   Medium   |       [Solution](/)        |
-| Strings         |              |       [Problem]()       |   Medium   |       [Solution](/)        |
-| Strings         |              |       [Problem]()       |   Medium   |       [Solution](/)        |
-| Strings         |              |       [Problem]()       |   Medium   |       [Solution](/)        |
-| Strings         |              |       [Problem]()       |   Medium   |       [Solution](/)        |
-| Strings         |              |       [Problem]()       |   Medium   |       [Solution](/)        |
-| Strings         |              |       [Problem]()       |   Medium   |       [Solution](/)        |
-| Strings         |              |       [Problem]()       |   Medium   |       [Solution](/)        |
-| Strings         |              |       [Problem]()       |   Medium   |       [Solution](/)        |
-| Strings         |              |       [Problem]()       |   Medium   |       [Solution](/)        |
-| Strings         |              |       [Problem]()       |   Medium   |       [Solution](/)        |
-| Strings         |              |       [Problem]()       |   Medium   |       [Solution](/)        |
-| Strings         |              |       [Problem]()       |   Medium   |       [Solution](/)        |
-| Strings         |              |       [Problem]()       |   Medium   |       [Solution](/)        |
-| Strings         |              |       [Problem]()       |   Medium   |       [Solution](/)        |
-| Strings         |              |       [Problem]()       |   Medium   |       [Solution](/)        |
-| Strings         |              |       [Problem]()       |   Medium   |       [Solution](/)        |
-| Strings         |              |       [Problem]()       |   Medium   |       [Solution](/)        |
-| Strings         |              |       [Problem]()       |   Medium   |       [Solution](/)        |
-| Strings         |              |       [Problem]()       |   Medium   |       [Solution](/)        |
-| Strings         |              |       [Problem]()       |   Medium   |       [Solution](/)        |
-| Strings         |              |       [Problem]()       |   Medium   |       [Solution](/)        |
-| Strings         |              |       [Problem]()       |   Medium   |       [Solution](/)        |
-| Strings         |              |       [Problem]()       |   Medium   |       [Solution](/)        |
-| Strings         |              |       [Problem]()       |   Medium   |       [Solution](/)        |
-| Strings         |              |       [Problem]()       |   Medium   |       [Solution](/)        |
-| Strings         |              |       [Problem]()       |   Medium   |       [Solution](/)        |
-| Strings         |              |       [Problem]()       |   Medium   |       [Solution](/)        |
-| Strings         |              |       [Problem]()       |   Medium   |       [Solution](/)        |
-| Strings         |              |       [Problem]()       |   Medium   |       [Solution](/)        |
-| Strings         |              |       [Problem]()       |   Medium   |       [Solution](/)        |
-| Strings         |              |       [Problem]()       |   Medium   |       [Solution](/)        |
-| Strings         |              |       [Problem]()       |   Medium   |       [Solution](/)        |
-| Strings         |              |       [Problem]()       |   Medium   |       [Solution](/)        |
-| Strings         |              |       [Problem]()       |   Medium   |       [Solution](/)        |
-| Strings         |              |       [Problem]()       |   Medium   |       [Solution](/)        |
+| Strings         | CamelCase                                  |       [Problem](https://www.hackerrank.com/challenges/camelcase?isFullScreen=true)       |    Easy    |       [Solution](/)        |
+| Strings         | Strong Password                            |       [Problem](https://www.hackerrank.com/challenges/strong-password?isFullScreen=true)       |    Easy    |       [Solution](/)        |
+| Strings         | Super Reduced String                       |       [Problem](https://www.hackerrank.com/challenges/reduced-string?isFullScreen=true)       |    Easy    |       [Solution](/)        |
+| Strings         | Two Characters                             |       [Problem](https://www.hackerrank.com/challenges/two-characters?isFullScreen=true)       |    Easy    |       [Solution](/)        |
+| Strings         | Caesar Cipher                              |       [Problem](https://www.hackerrank.com/challenges/caesar-cipher-1?isFullScreen=true)       |    Easy    |       [Solution](/)        |
+| Strings         | Mars Exploration                           |       [Problem](https://www.hackerrank.com/challenges/mars-exploration?isFullScreen=true)       |    Easy    |       [Solution](/)        |
+| Strings         | HckerRank in a String!                     |       [Problem](https://www.hackerrank.com/challenges/hackerrank-in-a-string?isFullScreen=true)       |    Easy    |       [Solution](/)        |
+| Strings         | Pangrams                                   |       [Problem](https://www.hackerrank.com/challenges/pangrams?isFullScreen=true)       |    Easy    |       [Solution](/)        |
+| Strings         | Weighted Uniform Strings                   |       [Problem](https://www.hackerrank.com/challenges/weighted-uniform-string?isFullScreen=true)       |    Easy    |       [Solution](/)        |
+| Strings         | Separate the Number                        |       [Problem](https://www.hackerrank.com/challenges/separate-the-numbers?isFullScreen=true)       |    Easy    |       [Solution](/)        |
+| Strings         | Funny String                               |       [Problem](https://www.hackerrank.com/challenges/funny-string?isFullScreen=true)       |    Easy    |       [Solution](/)        |
+| Strings         | Gemstones                                  |       [Problem](https://www.hackerrank.com/challenges/gem-stones?isFullScreen=true)       |    Easy    |       [Solution](/)        |
+| Strings         | Alternating Characters                     |       [Problem](https://www.hackerrank.com/challenges/alternating-characters?isFullScreen=true)       |    Easy    |       [Solution](/)        |
+| Strings         | Beautiful Binary String                    |       [Problem](https://www.hackerrank.com/challenges/beautiful-binary-string?isFullScreen=true)       |    Easy    |       [Solution](/)        |
+| Strings         | The Love-Letter Mystery                    |       [Problem](https://www.hackerrank.com/challenges/the-love-letter-mystery?isFullScreen=true)       |    Easy    |       [Solution](/)        |
+| Strings         | Determining DNA Health                     |       [Problem](https://www.hackerrank.com/challenges/determining-dna-health?isFullScreen=true)       |    Hard    |       [Solution](/)        |
+| Strings         | Palindrome Index                           |       [Problem](https://www.hackerrank.com/challenges/palindrome-index?isFullScreen=true)       |    Easy    |       [Solution](/)        |
+| Strings         | Anagram                                    |       [Problem](https://www.hackerrank.com/challenges/anagram?isFullScreen=true)       |    Easy    |       [Solution](/)        |
+| Strings         | Making Anagrams                            |       [Problem](https://www.hackerrank.com/challenges/making-anagrams?isFullScreen=true)       |    Easy    |       [Solution](/)        |
+| Strings         | Game of Thrones - I                        |       [Problem](https://www.hackerrank.com/challenges/game-of-thrones?isFullScreen=true)       |    Easy    |       [Solution](/)        |
+| Strings         | Two Strings                                |       [Problem](https://www.hackerrank.com/challenges/two-strings?isFullScreen=true)       |    Easy    |       [Solution](/)        |
+| Strings         | String Construction                        |       [Problem](https://www.hackerrank.com/challenges/string-construction?isFullScreen=true)       |    Easy    |       [Solution](/)        |
+| Strings         | Sherlock and the Valid String              |       [Problem](https://www.hackerrank.com/challenges/sherlock-and-valid-string?isFullScreen=true)       |   Medium   |       [Solution](/)        |
+| Strings         | Highest Value Palindrome                   |       [Problem](https://www.hackerrank.com/challenges/richie-rich?isFullScreen=true)       |   Medium   |       [Solution](/)        |
+| Strings         | Maximum Palidrome                          |       [Problem](https://www.hackerrank.com/challenges/maximum-palindromes?isFullScreen=true)       |   Medium   |       [Solution](/)        |
+| Strings         | Sherlock and Anagrams                      |       [Problem](https://www.hackerrank.com/challenges/sherlock-and-anagrams?isFullScreen=true)       |   Medium   |       [Solution](/)        |
+| Strings         | Common Child                               |       [Problem](https://www.hackerrank.com/challenges/common-child?isFullScreen=true)       |   Medium   |       [Solution](/)        |
+| Strings         | Bear and Steady Gene                       |       [Problem](https://www.hackerrank.com/challenges/bear-and-steady-gene?isFullScreen=true)       |   Medium   |       [Solution](/)        |
+| Strings         | Morgan and a String                        |       [Problem](https://www.hackerrank.com/challenges/morgan-and-a-string?isFullScreen=true)       |   Expert   |       [Solution](/)        |
+| Strings         | Cout Strings                               |       [Problem](https://www.hackerrank.com/challenges/count-strings?isFullScreen=true)       |    Hard    |       [Solution](/)        |
+| Strings         | String Function Calculation                |       [Problem](https://www.hackerrank.com/challenges/string-function-calculation?isFullScreen=truee)       |  Advanced  |       [Solution](/)        |
+| Strings         | Build a Palindrome                         |       [Problem](https://www.hackerrank.com/challenges/challenging-palindromes?isFullScreen=true)       |  Advanced  |       [Solution](/)        |
+| Strings         | Build a String                             |       [Problem](https://www.hackerrank.com/challenges/build-a-string?isFullScreen=true)       |    Hard    |       [Solution](/)        |
+| Strings         | Gridland Provinces                         |       [Problem](https://www.hackerrank.com/challenges/gridland-provinces?isFullScreen=true)       |    Hard    |       [Solution](/)        |
+| Strings         | Cards Permutation                          |       [Problem](https://www.hackerrank.com/challenges/cards-permutation?isFullScreen=true)       |   Expert   |       [Solution](/)        |
+| Strings         | Ashton and String                          |       [Problem](https://www.hackerrank.com/challenges/ashton-and-string?isFullScreen=true)       |  Advanced  |       [Solution](/)        |
+| Strings         | String Similarity                          |       [Problem](https://www.hackerrank.com/challenges/string-similarity?isFullScreen=true)       |   Expert   |       [Solution](/)        |
+| Strings         | Super Functional Strings                   |       [Problem](https://www.hackerrank.com/challenges/super-functional-strings?isFullScreen=true)       |  Advanced  |       [Solution](/)        |
+| Strings         | Circular Palindromes                       |       [Problem](https://www.hackerrank.com/challenges/circular-palindromes?isFullScreen=true)       |  Advanced  |       [Solution](/)        |
+| Strings         | Similar Strings                            |       [Problem](https://www.hackerrank.com/challenges/similar-strings?isFullScreen=true)       |  Advanced  |       [Solution](/)        |
+| Strings         | Save Humanity                              |       [Problem](https://www.hackerrank.com/challenges/save-humanity?isFullScreen=true)       |   Expert   |       [Solution](/)        |
+| Strings         | Find Strings                               |       [Problem](https://www.hackerrank.com/challenges/find-strings?isFullScreen=true)       |   Expert   |       [Solution](/)        |
+| Strings         | Palindromic Border                         |       [Problem](https://www.hackerrank.com/challenges/palindromic-border?isFullScreen=true)       |   Expert   |       [Solution](/)        |
+| Strings         | Two Two                                    |       [Problem](https://www.hackerrank.com/challenges/two-two?isFullScreen=true)       |  Advanced  |       [Solution](/)        |
+| Strings         | Two Strings Game                           |       [Problem](https://www.hackerrank.com/challenges/two-strings-game?isFullScreen=true)       |   Expert   |       [Solution](/)        |
+| Strings         | Letter Islands                             |       [Problem](https://www.hackerrank.com/challenges/letter-islands?isFullScreen=true)       |   Expert   |       [Solution](/)        |
+| Strings         | Pseudo-Isomorphic Substrings               |       [Problem](https://www.hackerrank.com/challenges/pseudo-isomorphic-substrings?isFullScreen=true)       |   Expert   |       [Solution](/)        |
+| Strings         | How Many Substrings?                       |       [Problem](https://www.hackerrank.com/challenges/how-many-substrings?isFullScreen=true)       |   Expert   |       [Solution](/)        |
+| Sorting         |              |       [Problem]()       |   Medium   |       [Solution](/)        |
+| Sorting         |              |       [Problem]()       |   Medium   |       [Solution](/)        |
+| Sorting         |              |       [Problem]()       |   Medium   |       [Solution](/)        |
+| Sorting         |              |       [Problem]()       |   Medium   |       [Solution](/)        |
+| Sorting         |              |       [Problem]()       |   Medium   |       [Solution](/)        |
+| Sorting         |              |       [Problem]()       |   Medium   |       [Solution](/)        |
+| Sorting         |              |       [Problem]()       |   Medium   |       [Solution](/)        |
+| Sorting         |              |       [Problem]()       |   Medium   |       [Solution](/)        |
+| Sorting         |              |       [Problem]()       |   Medium   |       [Solution](/)        |
+| Sorting         |              |       [Problem]()       |   Medium   |       [Solution](/)        |
+| Sorting         |              |       [Problem]()       |   Medium   |       [Solution](/)        |
+| Sorting         |              |       [Problem]()       |   Medium   |       [Solution](/)        |
+| Sorting         |              |       [Problem]()       |   Medium   |       [Solution](/)        |
+| Sorting         |              |       [Problem]()       |   Medium   |       [Solution](/)        |
+| Sorting         |              |       [Problem]()       |   Medium   |       [Solution](/)        |
 |   |              |       [Problem]()       |   Medium   |       [Solution](/)        |
 
 
