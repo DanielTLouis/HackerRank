@@ -60,7 +60,7 @@ This repository consists of solutions to HackerRank **practice**, **tutorials**,
 * [Python](#python)
 * [C++](#Cpp)
 * [Java](#Java)
-* [C](#C)
+* [C](#c-1)
 * [SQL](#sql)
 * [Data Structures](#data-structures)
 * [Algorithms](#algorithms)
