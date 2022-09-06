@@ -5,7 +5,7 @@
 </p>
 
 # HackerRank | Practice, Tutorials & Interview Preparation Solutions
-This repository consists of solutions to HackerRank **practice**, **tutorials**, and **interview preparation** problems with **Algorithsm**, **Data Structures**, **Python**, **mySQL**, **C#**, **C++**, **C** and **JavaScript**.
+This repository consists of solutions to HackerRank **practice**, **tutorials**, and **interview preparation** problems with **Algorithms**, **Data Structures**, **Python**, **mySQL**, **C#**, **C++**, **C** and **JavaScript**.
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/DanieTlLouis/HackerRank)](https://github.com/DanieTlLouis/HackerRank/commits)
 [![GitHub repo size](https://img.shields.io/github/repo-size/DanieTlLouis/HackerRank)](https://github.com/DanieTlLouis/HackerRank/archive/master.zip)
@@ -56,7 +56,7 @@ This repository consists of solutions to HackerRank **practice**, **tutorials**,
 * [Interview Preparation Kit](#interview-preparation-kit)
 * [Certificates](#certificates)
 
-## Practices Completed (# Marks Not Solved)
+## Practices Solved (# Marks Not Solved)
 * [Python](#python)
 * [C++](#C++)
 * [Java](#Java)
@@ -946,7 +946,7 @@ This repository consists of solutions to HackerRank **practice**, **tutorials**,
 | Debugging               | Smart Number                               |       [Problem](https://www.hackerrank.com/challenges/smart-number?isFullScreen=true)                                                |    Easy    | # |      [Solution](/Algorithms/)        |
 
 
-## Tutorials Completed
+## Tutorials Solved 
 * [10 Days of JavaScript](#10-days-of-javascript)
 * [10 Days of Statistics](#10-days-of-statistics)
 * [30 Days of Code](#30-days-of-code)
