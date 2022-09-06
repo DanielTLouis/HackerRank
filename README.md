@@ -58,12 +58,12 @@ This repository consists of solutions to HackerRank **practice**, **tutorials**,
 
 ## Practices Solved (# Marks Not Solved)
 * [Python](#python)
-* [C++](#C++)
+* [C++](#Cpp)
 * [Java](#Java)
 * [C](#C)
 * [SQL](#sql)
-* [Data Structures](data-structures)
-* [Algorithms](algorithms)
+* [Data Structures](#data-structures)
+* [Algorithms](#algorithms)
 
 ### C++
 |       Subdomain       |                 Challenge                 |                                             Problem                                                          | Difficulty |         Solution                                                                   |
@@ -374,7 +374,7 @@ This repository consists of solutions to HackerRank **practice**, **tutorials**,
 |   Aggregation   |       Weather Observation Station 19       |       [Problem](https://www.hackerrank.com/challenges/weather-observation-station-19/problem)       |   Medium   | # |      [Solution](/SQL/)        |
 |   Aggregation   |       Weather Observation Station 20       |       [Problem](https://www.hackerrank.com/challenges/weather-observation-station-20/problem)       |   Medium   | # |      [Solution](/SQL/)        |
 
-### data-structures
+### Data Structures
 |    Subdomain    |                 Challenge                               |                                               Problem                                                                                           | Difficulty |                                                Solution                                                              |
 | :-------------: | :-----------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------: | :--------: | :------------------------------------------------------------------------------------------------------------------: |
 | Arrays          |  Arrays - DS                                            |       [Problem](https://www.hackerrank.com/challenges/arrays-ds/problem?isFullScreen=true)                                                      |   Medium   | # |      [Solution](/DataStructures/)                                                                                   |
