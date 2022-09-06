@@ -374,7 +374,7 @@ This repository consists of solutions to HackerRank **practice**, **tutorials**,
 |   Aggregation   |       Weather Observation Station 19       |       [Problem](https://www.hackerrank.com/challenges/weather-observation-station-19/problem)       |   Medium   | # |      [Solution](/SQL/)        |
 |   Aggregation   |       Weather Observation Station 20       |       [Problem](https://www.hackerrank.com/challenges/weather-observation-station-20/problem)       |   Medium   | # |      [Solution](/SQL/)        |
 
-### Data Structures
+### data-structures
 |    Subdomain    |                 Challenge                               |                                               Problem                                                                                           | Difficulty |                                                Solution                                                              |
 | :-------------: | :-----------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------: | :--------: | :------------------------------------------------------------------------------------------------------------------: |
 | Arrays          |  Arrays - DS                                            |       [Problem](https://www.hackerrank.com/challenges/arrays-ds/problem?isFullScreen=true)                                                      |   Medium   | # |      [Solution](/DataStructures/)                                                                                   |
