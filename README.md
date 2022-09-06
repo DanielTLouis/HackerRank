@@ -58,7 +58,7 @@ This repository consists of solutions to HackerRank **practice**, **tutorials**,
 
 ## Practices Solved (# Marks Not Solved)
 * [Python](#python)
-* [C++](#Cpp)
+* [C++](#C++)
 * [Java](#Java)
 * [C](#c-1)
 * [SQL](#sql)
